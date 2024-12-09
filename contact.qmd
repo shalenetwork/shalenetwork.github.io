@@ -1,0 +1,45 @@
+---
+title: ""
+image: /files/portraits/tao-wen.jpg
+toc: false
+about: 
+  id: contact
+  template: jolla
+  image-shape: round
+  image-width: 16em
+  links:
+    - text: "{{< iconify academicons:cv >}}"
+      href: /files/Tao_Wen_CV_EN.pdf
+      target: _blank
+    - icon: envelope
+      href: mailto:twen08@syr.edu
+      target: _blank
+    - text: "{{< iconify academicons:google-scholar-square >}}"
+      href: https://scholar.google.com/citations?user=5jsj4tUAAAAJ
+      target: _blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/taowen1988
+      target: _blank
+    - icon: twitter-x
+      href: https://x.com/jaywt
+      target: _blank
+    - text: "{{< iconify academicons:researchgate >}}"
+      href: https://www.researchgate.net/profile/Tao_Wen12
+      target: _blank
+    - text: "{{< iconify academicons:orcid >}}"
+      href: http://orcid.org/0000-0002-6113-7532
+      target: _blank
+    - icon: github
+      href: https://github.com/jaywt
+      target: _blank
+    - text: "{{< iconify academicons:publons >}}"
+      href: https://publons.com/researcher/3122976/tao-wen/
+      target: _blank
+page-layout: full
+sidebar: false
+---
+
+Hi there! I'm Tao Wen (pronounced as "Tau When"). I am a tenure-track Assistant Professor in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}. My primary research interests involve studying water and elemental cycles within coupled human and natural systems across varying temporal and spatial scales using both data science (big data) and case study (small data) approaches. Since joining the faculty in 2020, I have designed, built, and directed the Syracuse University **H**ydrogeochemistry **A**nd e**N**vironmental **D**ata **S**ciences (**HANDS**) and **N**oble Gases in **E**arth **S**ystems **T**racing (**NEST**) Research Laboratories. In the WEN research group, we analyze water quality parameters and the isotopic compositions of selected elements (e.g., oxygen, hydrogen, carbon, nitrogen) and noble gases (i.e., He, Ne, Ar, Kr, Xe) using ion chromatography, optical emission spectrometry, water isotope analyzers, and mass spectrometry. Additionally, we develop and utilize emerging machine learning and geostatistical tools to assess the interplay between water and elemental cycles in Earth-surface systems, as well as investigate how these cycles are regulated by human activities (e.g., energy extraction, urbanization) and natural processes. I teach a variety of water-related and data science-related courses at Syracuse University for both undergraduate and graduate students, including ***Introduction to Earth and Environmental Data Analysis*** (EAR 201), ***Water and Our Environment*** (EAR 205), ***Hydrogeology*** (EAR 401/601), ***Environmental Aqueous Geochemistry*** (EAR 419/619), and ***Machine Learning in Earth and Environmental Sciences*** (EAR 400/600). Many of the teaching materials and other online learning modules I have developed are publicly accessible on the [**Education**](/education.qmd) page, as I strongly believe in open science and open education.
+
+
+

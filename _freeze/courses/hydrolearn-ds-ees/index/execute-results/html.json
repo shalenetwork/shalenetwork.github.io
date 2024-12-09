@@ -1,0 +1,17 @@
+{
+  "hash": "b97e40c6f03febf7974af7d01fb1ca31",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Data Science in Earth and Environmental Sciences\"\ndescription: |\n  an online course on introducing data sciences in earth and environmental sciences\ncategories: [HydroLearn, R, Python, Geospatial Analysis]\nimage: hydrolearn-ds-ees.png\ndraft: false\n---\n\n\n\n\n\n\n\n[{{< fa window-maximize >}} course website](https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about){.btn .btn-primary target=_blank} [{{< fa droplet >}} hydrolearn](https://www.hydrolearn.org){.btn .btn-primary target=_blank}\n\n<br>\n\n# Course description\n\nThis course, [Data Science in Earth and Environmental Sciences](https://bren.ucsb.edu/courses/eds-430){target=_blank}, is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences. This course is offered through the [HydroLearn](https://www.hydrolearn.org){target=_blank} platform, in partnership with [CUAHSI HydroShare](https://www.hydroshare.org){target=_blank}\n\nThis course is designed to serve a broad mix of learners whose coding expertise ranges from beginner to expert level and whose geoscience-related research interests. At the end of this course, you should be able to describe and implement the steps involved in:\n1. reviewing and modifying others' codes in R and/or Python\n2. writing codes in R and/or Python\n3. developing and implementing a data science workflow for a data-driven project\n4. designing a data science project by conceptualizing a domain science problem\n\nThis will be accomplished through activities within each section. Results from each activity will be recorded in specified results templates. The results templates for each activity can be found at the beginning of each activity. The results templates are organized such that results from one activity can easily be used in successive activities.\n\n<br>\n\n\n\n\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](hydrolearn-ds-ees.png){fig-align='center' width=70%}\n:::\n:::\n\n\n\n\n\n\n\n# When is this taught?\n\nThis course is completely online and self-paced. You can take the course on the [HydroLearn](https://www.hydrolearn.org){target=_blank} platform anytime you want.",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

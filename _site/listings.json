@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/education.html",
+    "items": [
+      "/courses/env-hydrocarbon/index.html",
+      "/courses/hydrolearn-ds-ees/index.html",
+      "/courses/ear-419-environmental-aqueous-geochemistry/index.html",
+      "/courses/ear-400-ml-ees/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": []
+  }
+]

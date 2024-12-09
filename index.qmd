@@ -1,0 +1,24 @@
+---
+title: ""
+page-layout: full
+sidebar: false
+title-block-banner: false
+---
+
+We are a group of geoscientists and environmental data scientists in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}. Our research interests involve studying water and elemental cycles within coupled human and natural systems across varying temporal and spatial scales using both data science (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.
+
+::: {#fig-wen-group}
+![](assets/artworks/wen-research-group.jpg)
+
+This thematic image is illustrated by [MENG GRAPHICS LLC](https://xiaomengfu.myportfolio.com). Copyright © 2024 Tao Wen. All Rights Reserved.
+:::
+
+Our group is located in Syracuse, New York. Interested visitors and prospective group members can check the [**Join Us**](/joinus.qmd){target="_blank"} page.
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-76.136393, lat=43.037359)
+```

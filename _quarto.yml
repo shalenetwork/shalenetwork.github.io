@@ -1,0 +1,103 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/Tao_Wen_CV_EN.pdf
+    - CNAME
+  render: 
+    - "*.qmd"
+    - "*.ipynb"
+    - "!_template.qmd"
+    - "!_template.ipynb"
+
+execute: 
+  freeze: auto
+
+editor:
+    render-on-save: true
+
+website:
+  title: "Wen Group"
+  page-navigation: false
+  site-url: "https://jaywen.com"
+  repo-url: "https://github.com/jaywt/jaywt.github.io"
+  favicon: "assets/artworks/su-logo.png"
+  twitter-card: true
+  search: 
+    location: navbar
+    type: overlay
+  body-header: |
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+  
+  navbar:
+    search: true
+    title: false
+    logo: "assets/artworks/logo-wen-group.png"
+    logo-alt: "Wen Research Group"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - research.qmd
+      - publication.qmd
+      - education.qmd
+      - joinus.qmd
+      - href: contact.qmd
+        text: Contact
+  
+  sidebar:
+    # create a sidebar for EAR 419 Environmental Aqueous Geochemistry
+    - id: course-ear-419
+      style: floating
+      align: left
+      collapse-level: 2
+      contents: 
+        - href: courses/ear-419-environmental-aqueous-geochemistry/index.ipynb
+          text: "Course Home"
+        - href: courses/ear-419-environmental-aqueous-geochemistry/syllabus.ipynb
+        - section: "Lectures"
+          contents: courses/ear-419-environmental-aqueous-geochemistry/lectures/*.ipynb
+        - section: "Labs"
+          contents: courses/ear-419-environmental-aqueous-geochemistry/labs/*.ipynb
+        #- section: "Assignments"
+        #  contents: courses/ear-419-environmental-aqueous-geochemistry/assignments/*.ipynb
+    
+    - id: course-ear-400-ml-ees
+      style: floating
+      align: left
+      collapse-level: 2
+      contents: 
+        - href: courses/ear-400-ml-ees/index.ipynb
+          text: "Course Home"
+        - href: courses/ear-400-ml-ees/syllabus.ipynb
+        - section: "Lectures"
+          contents: courses/ear-400-ml-ees/lectures/*.ipynb
+        - section: "Assignments"
+          contents: courses/ear-400-ml-ees/assignments/*.ipynb
+          
+      
+
+  page-footer: 
+    center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}
+    right:
+      - icon: github
+        href: https://github.com/jaywt/jaywt.github.io
+        target: _blank
+
+format:
+  html:
+    theme: 
+      light: [simplex, assets/sass/theme-light-custom.scss]
+      dark: [simplex, assets/sass/theme-dark-custom.scss]
+    toc: true
+    toc-expand: 1
+    link-external-newwindow: true
+    smooth-scroll: true
+    title-block-banner: true
+    code-line-numbers: true
+    css: assets/css/styles.css
+    
+
+
+

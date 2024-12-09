@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Wen Group</title>
+<link>https://jaywen.com/research.html</link>
+<atom:link href="https://jaywen.com/research.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.49</generator>
+<lastBuildDate>Mon, 09 Dec 2024 20:56:34 GMT</lastBuildDate>
+<item>
+  <title>Shale Network Database</title>
+  <link>https://jaywen.com/</link>
+  <description>a national-scale database of water resources data in oil and gas production regions</description>
+  <category>FEW</category>
+  <category>Cyberinfrastructure</category>
+  <category>Data Science</category>
+  <category>Water Quality</category>
+  <guid>https://jaywen.com/</guid>
+  <pubDate>Mon, 09 Dec 2024 20:56:34 GMT</pubDate>
+  <media:content url="https://jaywen.com/projects/shale-network/shale-network-science.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
+</channel>
+</rss>
