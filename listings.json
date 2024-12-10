@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/events/index.html",
+    "items": [
+      "/events/2014-shale-network-workshop.html",
+      "/events/2013-shale-network-workshop.html",
+      "/events/2012-shale-network-workshop.html"
+    ]
+  },
+  {
+    "listing": "/education.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/2014-shale-network-workshop.html",
+      "/events/2013-shale-network-workshop.html",
+      "/events/2012-shale-network-workshop.html"
+    ]
+  }
+]

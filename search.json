@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shale Network",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About this site"
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "News & Events",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n2014 Shale Network Workshop\n\n\n\n\n\n\nWorkshop\n\n\nCitizen Science\n\n\nCommunity Engagement\n\n\n\n\n\n\nMay 12, 2014\n\n\n2 min\n\n\n358 words\n\n\n\n\n\n\n\n\n\n\n\n\n2013 Shale Network Workshop\n\n\n\n\n\n\nWorkshop\n\n\nCitizen Science\n\n\nCommunity Engagement\n\n\n\n\n\n\nMay 19, 2013\n\n\n1 min\n\n\n156 words\n\n\n\n\n\n\n\n\n\n\n\n\n2012 Shale Network Workshop\n\n\n\n\n\n\nWorkshop\n\n\nCitizen Science\n\n\nCommunity Engagement\n\n\n\n\n\n\nApr 23, 2012\n\n\n6 min\n\n\n1,024 words\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/2013-shale-network-workshop.html",
+    "href": "events/2013-shale-network-workshop.html",
+    "title": "2013 Shale Network Workshop",
+    "section": "",
+    "text": "Developing water monitoring data and a network to protect our water resources as we develop shale gas in the northeastern U.S.\nThe 2013 Shale Network Workshop took place May 19-20, 2013, at the Pennsylvania State University in State College, PA.\nThe workshop included a poster session May 19 at the Atherton Hotel as an “icebreaker,” several research presentations May 20, a chance to meet other participants and a hands-on lesson in HydroDesktop software.\nParticipants were asked to complete a survey at the end of the workshop. A summary of that survey can be found below, along with information on the workshop.\nSupplemental Materials:\n\n2013 Workshop Agenda\nPoster Session 2013\nWorkshop Introduction and Closing Remarks\nHydroDesktop Demonstration\nSurface Water Transport Contaminant Modeling and Water Quality Sensor Density, Ten Mile Creek\nSummary of Participant Evaluations of 2013 Workshop\nPresentation by environmental science students from Mountain Ridge High School, Maryland"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "about.html",
@@ -12,5 +33,47 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "events/2012-shale-network-workshop.html",
+    "href": "events/2012-shale-network-workshop.html",
+    "title": "2012 Shale Network Workshop",
+    "section": "",
+    "text": "Introduction to the Shale Network database: encouraging data sharing and interaction and study around Marcellus water quality issues\nTo coordinate the collection of data for water quality and quantity in regions of hydrofracturing, a workshop was convened at the Pennsylvania State University in State College, Pennsylvania. The purpose of the workshop held on April 23-24 2012 was to encourage participants to begin to use and contribute data to our growing database of water quality and quantity for regions of shale gas development.\nForty-one participants – all of whom work on water issues related to shale gas – attended the workshop run by researchers from Penn State, Pitt, Dickinson College, and the Consortium of Universities for the Advancement of Hydrologic Sciences, Inc. (CUAHSI). This team has been funded by the National Science Foundation (NSF) since October 2011 to create the Shale Network database to organize information about water quality and quantity in regions centered around the Marcellus. The intent is to promote understanding of the possible impacts of gas development on water through development of our online database. The Shale Network team is testing whether the inclusion of data from groups of citizen scientists can promote new discoveries and facilitate public education with respect to environmental issues. The database currently contains data from academic scientists, industry, community watershed groups, and government agencies and includes analyses of 60 different constituents for some samples. Metadata is included to describe characteristics of the data, including its quality assurance level. Furthermore, it is the philosophy of the Shale Network team that the best insurance of data quality is to share data online for all researchers to test and compare.\nOf the 41 workshop attendees, 23 were from universities, 6 from government agencies, 2 from environmental consulting firms, 3 from county district offices, and 7 from non-profit organizations. All participants were introduced to the Shale Network database through HydroDesktop, a publicly available web service maintained by CUAHSI. By placing the ShaleNetwork database online at a CUAHSI Hydroserver, the data can be accessed along with data from the United States Geologic Survey, the Environmental Protection Agency, and other groups hosting data on Hydroservers around the country. Currently, the Shale Network team has uploaded data for surface waters, groundwaters, waste effluent, flowback and production waters. Those interested in contributing more data are encouraged to register with the Shale Network.\nWorkshop participants reached eight conclusions. First, we discovered that extensive water data is available in areas of shale gas – but data collation is needed. Second, participants agreed that the Shale Network team should partner with state agencies and industry to move their datasets online. Third, participants discovered that it is already possible to use the database to assess data gaps with respect to location or parameters. Fourth, the team was encouraged to search out data and prioritize uploads to plug gaps. Fifth, while ongoing efforts to find and upload data will be continuing at least for the three years of NSF funding, the database could be sustained by others long-term if the Shale Network team simplifies the process of uploading data and finds ways to create community buy-in or incentives for data uploads. Sixth, while more metadata can always be added, the database itself and the workshops for the database (to be held in 2013, 2014) should also drive future agreement about analytical protocols that could simplify metadata in the future. Seventh, the database itself is already encouraging other groups to upload data to Hydroservers: the Shale Network team is partnering with such groups. Finally, a user interface is needed that is easier and more accessible for citizens to understand the data.\nWorkshop Materials\n\nOpening presentation\nSurface water impacts presentation\nWorkshop agenda\n\n2012 Shale Network Workshop Attendees\nAcademic\n\nThomas Barnard, Wilkes University\nLaura Branby, Allegheny College\nKirk Jalbert, Rensselaer Polytechnic Institute\nWendy Kedzierski, Allegheny College\nAbby J. Kinchy*, Rensselaer Polytechnic Institute\nCarl Kirby, Bucknell University\nJason D. Monnell*, University of Pittsburgh\nJames Palmer, Allegheny College\nArt Rose, Penn State University\nJeanne VanBriesen, Carnegie Mellon University\n\nGovernment\n\nJennifer Fulton, US EPA\nAndrew Gavin, Susquehanna River Basin Commission\nTom Kulakowski, Bellefonte PA Fish and Boat Commission\nJohn Sengle, PA Dept of Environmental Protection \nDustin Shull*, PA Dept. of Environmental Protection\nRyan Szuch, PA Dept of Forestry\n\nEnvironmental Consultants\n\nGarth Llewellyn, Appalachia Hydro & Env. Consulting\nMark Ralston, Converse Consultants\n\nCounty Conservation District\n\nAnn Donovan, Centre County Conservation District\nMike Lovegreen*, Bradford County Conservation District\n\nNon-profits and Community Organizations, and Foundations\n\nJohn Amos, Skytruth\nMitchell Blake, Trout Unlimited\nJohn Dawes, Foundation for PA Watersheds\nBryn Hammarstrom, Pine Creek Waterdogs\nMatt Kelso, FracTracker\nBob Volkmar, God’s Country Trout Unlimited\nPaul Woods, Skytruth\nEphraim Zimmerman, Western PA Conservancy\n\nCommittee Members and Associates\n\nJorge Abad, University of Pittsburgh\nChuck Anderson, Penn State University\nSina Arjmand, University of Pittsburgh\nJennifer Arrigo, CUAHSI\nSusan Brantley, Penn State University\nKathy Brasier, Penn State University\nPaul Grieve, Penn State University\nRonald Gutierrez, University of Pittsburgh\nMaggie Peacock, Penn State University\nCesar Simon, University of Pittsburgh\nJulie Vastine, Dickinson College\nCandie Wilderman, Dickinson College\nDave Yoxtheimer, Penn State University\n\nDue to Inclement Weather Registered but Unable to Attend\n\nKrissy Kasserman, Mountain Watershed Association\nHeather McKean, McKean County Conservation District\nMelissa O’Neal, WV Water Research Institute\nJim Weaver, Pine Creek Waterdogs\n\nShale Network Committee\n\nSusan Brantley\nMaggie Peacock,\nDave Yoxtheimer\nKathy Brasier\nChuck Anderson\nPaul Grieve\nCandie Wilderman\nJulie Vastine\nJorge Abad\nRadisav Vidic\nCesar Simon\nRick Hooper\nJennifer Arrigo\nDebbie Lambert\nX. Niu\nPatryk Soika\n\n* small group discussion leader"
+  },
+  {
+    "objectID": "events/2014-shale-network-workshop.html",
+    "href": "events/2014-shale-network-workshop.html",
+    "title": "2014 Shale Network Workshop",
+    "section": "",
+    "text": "Lessons learned about water through Shale Network and similar efforts: Forward movevment\nThe 2014 Shale Network workshop took place May 12 and 13, 2014 drawing the largest group of people interested in water quality monitoring of the three annual workshops held so far. About 80 people attended all or parts of the workshop, including a poster presentation, lesson in the computer software used to track water quality data, and daylong session of presentations and discussions. Participants derived from industry, academia, government, private environmental companies, and watershed groups.\nParticipants from Penn State, the University of Pittsburgh, Dickinson College and CUAHSI organized the workshop. The Shale Network receives support from the National Science Foundation.\nWorkshop presentations and posters:\n\nMohamed Khalequzzamen: Poster, Community-based Water Quality Monitoring Projects in Marcellus Shale Gas Drilling Regions in Centre, Clearfield, and Clinton Counties, Pa.\nDonald Seigel: Poster, The False Positive Problem and the Prevalence of Methane and Solutes in Shallow Ground Water Consumed in Pennsylvania\nSusan Brantley: Presentation, What Have We Learned from the Shale Network Efforts?\nTyler Shenk: Presentation, Susquehanna River Basin Commission Ongoing Water Quality Monitoring\nBarbara St. John White: Presentation, Pine Creek Waterdogs and Tiadaghton Trout Unlimited Chapter Cold Water Conservation Corps: Volunteer Stream Monitoring for Shale Gas Impacts in the Headwaters of North Central Pennsylvaniapine-creek-waterdogs-and-tiadaghton-trout-unlimited-chapter-cold-water-conservation-corps)\nBob Hendricks: Presentation, Summary of Water Quality Observatinos/Challenges in Shale Gas Development\nCandie Wilderman: Presentation, Preliminary Interpretation of the Impacts of Marcellus Shale Gas Extraction Activities on Small Streams, Based on Volunteer-Collected Data \nKathy Brasier: Presentation, What Have We Learned About How People Share Data?\nJorge D. Abad: Presentation, Evaluation of Potential Overland Flow and Pathway of Accidental Spills from Unconventional Drilling Sites to Nearby Streams \nSeth Pelepko: Presentation, Using Produced Water and Drilling Trends to Explore Marcellus Shale Development in Pennsylvania\nFeature story: Shale Network effort aimed at collecting, sharing water quality data \n\nWorkshop Steering Committee:\n\nCarl Kirby, Bucknell University\nSusan Brantley, Penn State\nJohn Smelko, Marcellus Shale Coalition\nJulie Vastine, ALLARM, Dickinson College\nMark Stephens, PA DEP"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shale Network",
+    "section": "",
+    "text": "Sites\nData Values\nData Providers\n\n\n62,025\n2,109,467\n515\n\n\n\nAs of 12/10/2024"
+  },
+  {
+    "objectID": "index.html#status-of-the-shale-network-database",
+    "href": "index.html#status-of-the-shale-network-database",
+    "title": "Shale Network",
+    "section": "",
+    "text": "Sites\nData Values\nData Providers\n\n\n62,025\n2,109,467\n515\n\n\n\nAs of 12/10/2024"
+  },
+  {
+    "objectID": "index.html#news-events",
+    "href": "index.html#news-events",
+    "title": "Shale Network",
+    "section": "News & Events",
+    "text": "News & Events\n\n\n\n\n\n\n\n\n\n\n2014 Shale Network Workshop\n\n\n\n\n\n\n\n\n\nMay 12, 2014\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2013 Shale Network Workshop\n\n\n\n\n\n\n\n\n\nMay 19, 2013\n\n\n\n\n\n\n\n\n\n\n\n\n2012 Shale Network Workshop\n\n\n\n\n\n\n\n\n\nApr 23, 2012\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

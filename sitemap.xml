@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shalenetwork.github.io/index.html</loc>
-    <lastmod>2024-12-09T22:06:39.418Z</lastmod>
+    <loc>http://www.shalenetwork.org/people.html</loc>
+    <lastmod>2024-12-10T06:25:01.160Z</lastmod>
   </url>
   <url>
-    <loc>https://shalenetwork.github.io/about.html</loc>
-    <lastmod>2024-12-09T22:06:39.418Z</lastmod>
+    <loc>http://www.shalenetwork.org/events/index.html</loc>
+    <lastmod>2024-12-10T06:25:01.160Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/events/2013-shale-network-workshop.html</loc>
+    <lastmod>2024-12-10T06:25:00.932Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/education.html</loc>
+    <lastmod>2024-12-10T06:25:00.932Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/about.html</loc>
+    <lastmod>2024-12-10T06:25:00.928Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/data.html</loc>
+    <lastmod>2024-12-10T06:25:00.932Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/events/2012-shale-network-workshop.html</loc>
+    <lastmod>2024-12-10T06:25:00.932Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/events/2014-shale-network-workshop.html</loc>
+    <lastmod>2024-12-10T06:25:01.160Z</lastmod>
+  </url>
+  <url>
+    <loc>http://www.shalenetwork.org/index.html</loc>
+    <lastmod>2024-12-10T06:25:01.160Z</lastmod>
   </url>
 </urlset>
