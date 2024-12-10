@@ -4,7 +4,8 @@ subtitle: "Latest news and events from the Shale Network community"
 listing: 
   sort: "date desc"
   type: default
-  categories: true
+  categories: numbered
+  max-description-length: 175
   image-placeholder: /assets/artworks/sn-logo-notext.png
   image-height: 200px
   sort-ui: true
@@ -12,8 +13,7 @@ listing:
   fields: [image, title, author, categories, date, word-count, reading-time]
   page-size: 5
   feed: true
-format: 
-  html: 
-    page-layout: full
+page-layout: full
 title-block-banner: true
+sidebar: false
 ---
