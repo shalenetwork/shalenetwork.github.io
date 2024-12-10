@@ -3,6 +3,7 @@ title: "Shale Network"
 subtitle: "a project centered on a national-scale database of water resources data in oil and gas production regions"
 page-layout: full
 sidebar: false
+toc: false
 title-block-banner: true
 
 listing:
@@ -23,7 +24,6 @@ listing:
     table-hover: true
     max-items: 3
     feed: false
-
 ---
 
 ## Status of the Shale Network Database
