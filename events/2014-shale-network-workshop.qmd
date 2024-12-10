@@ -1,0 +1,36 @@
+---
+title: "2014 Shale Network Workshop"
+date: "May 12, 2014"
+image: 2014-shale-network-workshop/image.jpeg
+categories: [Workshop, Citizen Science, Community Engagement]
+authors: 
+  - name: Shale Network Team
+---
+
+**Lessons learned about water through Shale Network and similar efforts: Forward movevment**
+
+The 2014 Shale Network workshop took place May 12 and 13, 2014 drawing the largest group of people interested in water quality monitoring of the three annual workshops held so far. About 80 people attended all or parts of the workshop, including a poster presentation, lesson in the computer software used to track water quality data, and daylong session of presentations and discussions. Participants derived from industry, academia, government, private environmental companies, and watershed groups.
+
+Participants from Penn State, the University of Pittsburgh, Dickinson College and CUAHSI organized the workshop. The Shale Network receives support from the National Science Foundation.
+
+**Workshop presentations and posters:**
+
+-   Mohamed Khalequzzamen: Poster, Community-based Water Quality Monitoring Projects in Marcellus Shale Gas Drilling Regions in Centre, Clearfield, and Clinton Counties, Pa.
+-   Donald Seigel: Poster, The False Positive Problem and the Prevalence of Methane and Solutes in Shallow Ground Water Consumed in Pennsylvania
+-   Susan Brantley: Presentation, What Have We Learned from the Shale Network Efforts?
+-   Tyler Shenk: Presentation, Susquehanna River Basin Commission Ongoing Water Quality Monitoring
+-   Barbara St. John White: Presentation, Pine Creek Waterdogs and Tiadaghton Trout Unlimited Chapter Cold Water Conservation Corps: Volunteer Stream Monitoring for Shale Gas Impacts in the Headwaters of North Central Pennsylvaniapine-creek-waterdogs-and-tiadaghton-trout-unlimited-chapter-cold-water-conservation-corps)
+-   Bob Hendricks: Presentation, Summary of Water Quality Observatinos/Challenges in Shale Gas Development
+-   Candie Wilderman: Presentation, Preliminary Interpretation of the Impacts of Marcellus Shale Gas Extraction Activities on Small Streams, Based on Volunteer-Collected Data 
+-   Kathy Brasier: Presentation, What Have We Learned About How People Share Data?
+-   Jorge D. Abad: Presentation, Evaluation of Potential Overland Flow and Pathway of Accidental Spills from Unconventional Drilling Sites to Nearby Streams 
+-   Seth Pelepko: Presentation, Using Produced Water and Drilling Trends to Explore Marcellus Shale Development in Pennsylvania
+-   Feature story: Shale Network effort aimed at collecting, sharing water quality data 
+
+**Workshop Steering Committee:**
+
+-   Carl Kirby, Bucknell University
+-   Susan Brantley, Penn State
+-   John Smelko, Marcellus Shale Coalition
+-   Julie Vastine, ALLARM, Dickinson College
+-   Mark Stephens, PA DEP

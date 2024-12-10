@@ -1,0 +1,112 @@
+---
+title: "2012 Shale Network Workshop"
+date: "April 23, 2012"
+categories: [Workshop, Citizen Science, Community Engagement]
+authors: 
+  - name: Shale Network Team
+---
+
+**Introduction to the Shale Network database: encouraging data sharing and interaction and study around Marcellus water quality issues**
+
+To coordinate the collection of data for water quality and quantity in regions of hydrofracturing, a workshop was convened at the Pennsylvania State University in State College, Pennsylvania. The purpose of the workshop held on April 23-24 2012 was to encourage participants to begin to use and contribute data to our growing database of water quality and quantity for regions of shale gas development.
+
+Forty-one participants – all of whom work on water issues related to shale gas -- attended the workshop run by researchers from Penn State, Pitt, Dickinson College, and the Consortium of Universities for the Advancement of Hydrologic Sciences, Inc. (CUAHSI). This team has been funded by the National Science Foundation (NSF) since October 2011 to create the Shale Network database to organize information about water quality and quantity in regions centered around the Marcellus. The intent is to promote understanding of the possible impacts of gas development on water through development of our online database. The Shale Network team is testing whether the inclusion of data from groups of citizen scientists can promote new discoveries and facilitate public education with respect to environmental issues. The database currently contains data from academic scientists, industry, community watershed groups, and government agencies and includes analyses of 60 different constituents for some samples. Metadata is included to describe characteristics of the data, including its quality assurance level. Furthermore, it is the philosophy of the Shale Network team that the best insurance of data quality is to share data online for all researchers to test and compare.
+
+Of the 41 workshop attendees, 23 were from universities, 6 from government agencies, 2 from environmental consulting firms, 3 from county district offices, and 7 from non-profit organizations. All participants were introduced to the Shale Network database through HydroDesktop, a publicly available web service maintained by CUAHSI. By placing the ShaleNetwork database online at a CUAHSI Hydroserver, the data can be accessed along with data from the United States Geologic Survey, the Environmental Protection Agency, and other groups hosting data on Hydroservers around the country. Currently, the Shale Network team has uploaded data for surface waters, groundwaters, waste effluent, flowback and production waters. Those interested in contributing more data are encouraged to register with the Shale Network.
+
+Workshop participants reached eight conclusions. First, we discovered that extensive water data is available in areas of shale gas -- but data collation is needed. Second, participants agreed that the Shale Network team should partner with state agencies and industry to move their datasets online. Third, participants discovered that it is already possible to use the database to assess data gaps with respect to location or parameters. Fourth, the team was encouraged to search out data and prioritize uploads to plug gaps. Fifth, while ongoing efforts to find and upload data will be continuing at least for the three years of NSF funding, the database could be sustained by others long-term if the Shale Network team simplifies the process of uploading data and finds ways to create community buy-in or incentives for data uploads. Sixth, while more metadata can always be added, the database itself and the workshops for the database (to be held in 2013, 2014) should also drive future agreement about analytical protocols that could simplify metadata in the future. Seventh, the database itself is already encouraging other groups to upload data to Hydroservers: the Shale Network team is partnering with such groups. Finally, a user interface is needed that is easier and more accessible for citizens to understand the data.
+
+**Workshop Materials**
+
+-   Opening presentation
+-   Surface water impacts presentation
+-   Workshop agenda
+
+**2012 Shale Network Workshop Attendees**
+
+Academic
+
+-   Thomas Barnard, Wilkes University
+-   Laura Branby, Allegheny College
+-   Kirk Jalbert, Rensselaer Polytechnic Institute
+-   Wendy Kedzierski, Allegheny College
+-   Abby J. Kinchy\*, Rensselaer Polytechnic Institute
+-   Carl Kirby, Bucknell University
+-   Jason D. Monnell\*, University of Pittsburgh
+-   James Palmer, Allegheny College
+-   Art Rose, Penn State University
+-   Jeanne VanBriesen, Carnegie Mellon University
+
+Government
+
+-   Jennifer Fulton, US EPA
+-   Andrew Gavin, Susquehanna River Basin Commission
+-   Tom Kulakowski, Bellefonte PA Fish and Boat Commission
+-   John Sengle, PA Dept of Environmental Protection 
+-   Dustin Shull\*, PA Dept. of Environmental Protection
+-   Ryan Szuch, PA Dept of Forestry
+
+Environmental Consultants
+
+-   Garth Llewellyn, Appalachia Hydro & Env. Consulting
+-   Mark Ralston, Converse Consultants
+
+County Conservation District
+
+-   Ann Donovan, Centre County Conservation District
+-   Mike Lovegreen\*, Bradford County Conservation District
+
+Non-profits and Community Organizations, and Foundations
+
+-   John Amos, Skytruth
+-   Mitchell Blake, Trout Unlimited
+-   John Dawes, Foundation for PA Watersheds
+-   Bryn Hammarstrom, Pine Creek Waterdogs
+-   Matt Kelso, FracTracker
+-   Bob Volkmar, God's Country Trout Unlimited
+-   Paul Woods, Skytruth
+-   Ephraim Zimmerman, Western PA Conservancy
+
+Committee Members and Associates
+
+-   Jorge Abad, University of Pittsburgh
+-   Chuck Anderson, Penn State University
+-   Sina Arjmand, University of Pittsburgh
+-   Jennifer Arrigo, CUAHSI
+-   Susan Brantley, Penn State University
+-   Kathy Brasier, Penn State University
+-   Paul Grieve, Penn State University
+-   Ronald Gutierrez, University of Pittsburgh
+-   Maggie Peacock, Penn State University
+-   Cesar Simon, University of Pittsburgh
+-   Julie Vastine, Dickinson College
+-   Candie Wilderman, Dickinson College
+-   Dave Yoxtheimer, Penn State University
+
+Due to Inclement Weather Registered but Unable to Attend
+
+-   Krissy Kasserman, Mountain Watershed Association
+-   Heather McKean, McKean County Conservation District
+-   Melissa O'Neal, WV Water Research Institute
+-   Jim Weaver, Pine Creek Waterdogs
+
+Shale Network Committee
+
+-   Susan Brantley
+-   Maggie Peacock,
+-   Dave Yoxtheimer
+-   Kathy Brasier
+-   Chuck Anderson
+-   Paul Grieve
+-   Candie Wilderman
+-   Julie Vastine
+-   Jorge Abad
+-   Radisav Vidic
+-   Cesar Simon
+-   Rick Hooper
+-   Jennifer Arrigo
+-   Debbie Lambert
+-   X. Niu
+-   Patryk Soika
+
+\* small group discussion leader

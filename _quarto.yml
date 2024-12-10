@@ -1,23 +1,74 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
+  render: 
+    - "*.qmd"
+    - "*.ipynb"
+    - "!_template.qmd"
+    - "!_template.ipynb"
 
 execute: 
   freeze: auto
 
+editor:
+  render-on-save: true
+
 website:
   title: "Shale Network"
+  page-navigation: false
+  site-url: "http://www.shalenetwork.org"
+  repo-url: "https://github.com/shalenetwork/shalenetwork.github.io"
+  favicon: "assets/artworks/sn-logo-notext.png"
+  twitter-card: true
+  search: 
+    location: navbar
+    type: overlay
+
+  # Add tracking id to track website traffic via umami
+  #body-header: |
+    #<script defer src="https://cloud.umami.is/script.js" #data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+
   navbar:
-    left:
+    search: true
+    title: false
+    logo: "assets/artworks/sn-logo.png"
+    logo-alt: "Shale Network Project"
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: data.qmd
+        text: Data
+      - href: education.qmd
+        text: Education
+      - href: events/index.qmd
+        text: News & Events
+      - href: people.qmd
+        text: People
+
+  page-footer: 
+    center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}
+    right:
+      - icon: github
+        href: https://github.com/shalenetwork/shalenetwork.github.io
+        target: _blank
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: [simplex, assets/sass/theme-light-custom.scss]
+      dark: [simplex, assets/sass/theme-dark-custom.scss]
     toc: true
+    toc-expand: 1
+    link-external-newwindow: true
+    smooth-scroll: true
+    title-block-banner: true
+    code-line-numbers: true
+    css: assets/css/styles.css
 
 
 
