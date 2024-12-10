@@ -1,0 +1,63 @@
+---
+title: "2016 Shale Network Workshop"
+date: "May 19, 2016"
+image: 2016-shale-network-workshop/image.jpeg
+categories: [Workshop, Citizen Science, Community Engagement]
+authors: 
+  - name: Shale Network Team
+---
+
+**Science and cooperation around water quality data and legacy wells in shale gas basins**
+
+The fifth annual Shale Network workshop took place May 19 and 20, drawing a large, diverse group including government workers, industry representatives, environmental group members, students and academics. About 97 people attended all or parts of the workshop, including a field trip, poster session, computer module and daylong session of presentations and discussions. 
+
+Of the 97 participants: 36 were from academia, including representatives from Princeton University, Penn State University, the University of Pittsburgh, the Colorado School of Mines, Binghamton University and Duquesne University; 18 were from government agencies, including the US Geological Survey, the US Department of Energy, the US Fish and Wildlife Service, the Pennsylvania Department of Environmental Protection, and the Maryland Department of the Environment; 11 were from environmental groups/non-profit groups, including Trout Unlimited, Friends for Environmental Justice and the Centre County Pennsylvania Senior Environmental Corps; seven were consultants or representing industry, including Shell, Chesapeake Energy, and Leidos; 17 were State College high school students and eight were members of the Shale Network committee.
+
+We appreciated everyone’s contributions, and are thankful for another great workshop.
+
+**Date(s):**
+
+May 19 and 20, 2016
+
+**Location:**
+
+Atherton Hotel, State College, PA. (Adjacent to the Penn State University Park campus.)
+
+**About the Workshop**
+
+All participants took part in sharing and interpreting water quality and quantity data related to shale gas development.
+
+The Shale Network is a collaborative effort between Penn State, Pitt, Dickinson and the Consortium of Universities for the Advancement of Hydrologic Sciences Inc. (CUAHSI) to collect and analyze data on water quality in the Marcellus Shale drilling region. The workshop provided an opportunity for nonscientists, researchers, experts, government officials, and members of the gas and environmental industries to compare lessons learned about water issues within the northeastern region of shale gas development.
+
+**Agenda**
+
+The [2016 Workshop Agenda](2016-shale-network-workshop/Final_Agenda_Shale_Network_2016.pdf) is available
+
+A complete [field trip itinerary](2016-shale-network-workshop/Shale-Network-Workshop-Field-Trip-Itinerary.docx) is also available 
+
+**Presentations**
+
+The presentation slides are now available:
+
+-   [Science and Cooperation around Water Quality Data and Legacy Wells](2016-shale-network-workshop/1.pdf) (Brantley et al)
+-   [Analysis of Methane Concentrations in Pennsylvania Stream and Groundwater in Collavoration with Citizen Scientists](2016-shale-network-workshop/2.pdf) (Jake Lemon, Anna Wendt, Susan Brantley)
+-   [Evaluation of a Rapid Airborne Method for Locating Legacy Wells in Pennsylvania](2016-shale-network-workshop/3.pdf) (Richard Hammack, James Sams, Garret Veloski, and Rod Diehl)
+-   [Detecting surface water contamination from drilling operations in Pennsylvania using publicly available water quality databases](2016-shale-network-workshop/4.pdf) (Anna Wendt et al)
+-   [Assessing Well Water Quality in Southwestern Pennsylvania](2016-shale-network-workshop/5.pdf) (John F. Stolz)
+-   [Orphan and Abandoned Oil and Gas Wells in Pa](2016-shale-network-workshop/6.pdf) (Nooreen Meghani)
+-   [What to do with Produced Water when its Reuse for Hyraulic Fracturing is No Longer Feasible?](2016-shale-network-workshop/7.pdf) (Omkar Lokare, Sakineh Tavakkoli, Vikas Khanna, Radisav Vidic)
+-   [NURE Legacy Groundwater Data: Evaluation of Basin-Scale Factors Influencing Shallow Brine and Halite Groundwater Impacts](2016-shale-network-workshop/8.pdf) (Garth Llewellyn)
+-   [Investigations of the Depth of Freshwater in Fractured-Bedrock Aquifers Penetrated by Deep Boreholes in Northern Pa](2016-shale-network-workshop/9.pdf) (Dennis Risser, John Williams)
+-   [Application of AMD for Produced Water Reuse can Facilitate Byproduct Recovery and Permanent NORM Sequestration](2016-shale-network-workshop/10.pdf) (Tieyuan Zhang, Can He, Radisav Vidic)
+
+**Methane Module**
+
+[Click here](https://serc.carleton.edu/hydromodules/units/143615.html){target="_blank"} to complete exercises that guide you through the initial stages of a hypothetical water supply complaint investigation where methane has been detected in surface water in Pa. 
+
+**2016 Workshop Registration**
+
+Registration is closed 
+
+**Continuing Professional Education**
+
+[Click here for information on earning continuing education credits](2016-shale-network-workshop/Continuing-Professional-Education-Credits.docx)  

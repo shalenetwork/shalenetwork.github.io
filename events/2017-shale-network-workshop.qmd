@@ -1,0 +1,61 @@
+---
+title: "2017 Shale Network Workshop"
+date: "May 18, 2017"
+categories: [Workshop, Citizen Science, Community Engagement]
+authors: 
+  - name: Shale Network Team
+---
+
+**Sharing data about shale gas development: from drilling to disposal**
+
+The Shale Network held its sixth annual workshop May 18 and 19 at the Penn State University Park Campus, and in State College, Pa. The workshop again drew a large, diverse group of participants interested in water quality around the Marcellus Shale drilling region in Pennsylvania.
+
+Representatives from academia, government agencies, energy industries, environmental groups joined citizen scientists and high school students and teachers during the two-day event.
+
+About 100 people attended all or parts of the workshop, which included a field trip, computer module and poster session on Thursday, May 18, and a daylong session of presentations and discussion on Friday, May 19.
+
+Of the 100 participants: 35 were from academia, including representatives from Penn State, Pittsburgh, Cornell, Syracuse, Indiana University of Pennsylvania, Colorado School of Mines and Lock Haven; 25 were from government agencies, including the U.S. Geological Survey, the U.S. Fish and Wildlife Service, the Pa. Department of Environmental Protection and the Pa. Department of Conservation and Natural Resources; 35 were from environmental/non-profit groups, including Trout Unlimited, FracTracker Alliance, Environmental Defense Fund and Pa. Senior Environmental Corps.; and nine were from energy companies like Chesapeake Energy, XTO Energy and Pennsylvania General Energy.
+
+We appreciated everyone’s contributions, and are thankful for another great workshop.
+
+**Date(s):**
+
+May 18 and 19, 2017
+
+**Location:**
+
+Atherton Hotel, State College, Pa., and Penn State, University Park campus
+
+**About the Workshop**
+
+All participants took part in sharing and interpreting water quality and quantity data related to shale gas development.
+
+The Shale Network is a collaborative effort between Penn State, the University of Pittsburgh, and the Consortium of Universities for the Advancement of Hydrologic Sciences Inc. (CUAHSI) to collect and analyze data on water quality in the Marcellus Shale drilling region. The workshop provided an opportunity for nonscientists, researchers, experts, government officials, and members of the gas and environmental industries to compare lessons learned about water issues within the northeastern region of shale gas development. The Pennsylvania Department of Environmental Protection is co-organized the workshop. Oak Ridge Associated Universities (ORAU) also provided funding.
+
+**Agenda**
+
+[Click here for the 2017 Shale Network agenda](2017-shale-network-workshop/Final_Agenda.pdf) 
+
+**Presentations** 
+
+-   [Engaging Angler Scientists in Methane Research: A Collaborative Approach](2017-shale-network-workshop/Woda_Shale_Network_Talk_2017.pdf) (Josh Woda, Jacob Lemon, Frederick B. Zelt, Susan Brantley)
+-   [Changes in the Quantity and Quality of Produced Water from Appalachian Shale Energy Development and their Implications for Water Reuse](2017-shale-network-workshop/Vidic_2017_ShaleNetwork.pdf) (Radisav D. Vidic, Dave Yoxtheimer)
+-   [DEP's Mechanical Integrity Assessment Program](2017-shale-network-workshop/Wise_MIA_05182017.pdf) (Harry Wise)
+-   [Proactively Addressing Induced Seismicity](2017-shale-network-workshop/Tyrell_PSU_Talk.pdf) (Tim Tyrrell)
+-   [Preliminary Results from Stream Methane Monitoring in the Marcellus Shale Region of the Susquehanna River Basin](2017-shale-network-workshop/Steffy_2017_Shale_Meeting.pdf) (Luanne Steffy)
+-   [How many disposal wells does PA need and where can they be located?](2017-shale-network-workshop/Skoff_UIC_Well_Pres_051917.pdf) (Dale E. Skoff)
+-   [Methane leakage rom hydrocarbon wellbores into overlying groundwater: Numerical investigation of the multiphase flow processes governing migration](2017-shale-network-workshop/Rice_ShaleNetwork.pdf) (Amy Rice, John McCray, Kamini Singha)
+-   [Quantifying Methane Emissions from Abandoned Legacy Gas Wells in Indiana County, Pennsylvania](2017-shale-network-workshop/Rudolchick_ShaleNetwork2017.pdf) (Molly Rudolchick, Steve Hovan)
+-   [Production Waste Trends and Management](2017-shale-network-workshop/Pelepko_Waste_Management_Trends_05172017.pdf) (Seth Pelepko)
+-   [Seismicity in Pennsylvania and the Pennsylvania State Seismic Network](2017-shale-network-workshop/Nyblade_ShaleNetwork_5_19_17.pdf) (Andy Nyblade)
+-   [Black Shale Waste Disposal Concerns](2017-shale-network-workshop/Hughes_Plenary.pdf) (Bill Hughes)
+-   [Well Construction and Cementing Practices in Shale and Salt Water Disposal Wells](2017-shale-network-workshop/Myers_Well_Construction_and_Cementing.pdf) (Roger Myers) 
+-   [Characterizing Sources of Stream Turbidity in the Marcellus Shale Gas-Well Drilling Region in Central Pennsylvania](2017-shale-network-workshop/Khalequzzman_2017_ShaleNetwork.pdf) (Matt Bell, Rose Nash, Md. Khalequzzaman)
+-   [6th Annual Shale Network Workshop opening and closing remarks](2017-shale-network-workshop/BrantleyWorkshop_2017_Intro_and_ClosingRemarks.pdf) (Susan Brantley)
+-   [Continuous Water Quality Trends Adjusted for Seasonality and Streamflow in the Susquehanna River Basin](2017-shale-network-workshop/Hintz_Shale_Workshop_5-19-17_SRBC.pdf) (Dawn Hintz, Graham Markowitz)
+-   [E-Governance as a data source for evaluating stakeholder positions on hydraulic fracturing regulation](2017-shale-network-workshop/Baka_2017_Shale_Network.pdf) (Jennifer Baka)
+-   [PA TENORM Study & Regulatory Framework](2017-shale-network-workshop/Allard_ShaleNetwork.pdf) (David J. Allard) 
+
+**Continuing Professional Education**
+
+[Click here for information on earning continuing education credits and PDHs](2017-shale-network-workshop/Continuing-Professional-Education-Credits.docx)

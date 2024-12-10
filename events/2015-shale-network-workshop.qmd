@@ -1,0 +1,53 @@
+---
+title: "2015 Shale Network Workshop"
+date: "May 7, 2015"
+image: 2015-shale-network-workshop/image.jpg
+categories: [Workshop, Citizen Science, Community Engagement]
+authors: 
+  - name: Shale Network Team
+---
+
+**Lessons Learned about Water Issues in the Northeastern Region of Shale Gas Development**
+
+The 4th Annual Shale Network workshop was held May 7 and 8 at Penn State and the Atherton Hotel in State college. 22 people attended the HydroDesktop Demo and 80 attended the workshop ([view full list of attendees](2015-shale-network-workshop/2015_ShaleNetwork_Workshop_Attendees.pdf)). A few of the powerpoints and posters will be posted soon to this website for presenters who want to share their work. Thanks to all the participants for the many great interactions.
+
+Funding for the workshop derives from the National Science Foundation and from the Penn State Institutes of Energy and the Environment. The theme of the workshop is _“Lessons Learned about Water Issues in the Northeastern Region of Shale Gas Development”_.
+
+**Date(s):**
+
+May 7 and 8, 2015
+
+**Location:**
+
+Atherton Hotel, State College, PA. (Adjacent to the Penn State University Park campus.)
+
+**About the Workshop**
+
+All participants will discuss sharing and interpreting water quality and quantity data related to shale gas development.
+
+The Shale Network, funded by the National Science Foundation, is a collaborative effort between Penn State, Pitt, Dickinson and CUAHSI and the NSF to collect and analyze data on water quality in the Marcellus Shale drilling region. The workshop will provide an opportunity for nonscientists, researchers, experts, government officials, and members of the gas and environmental industries to compare lessons learned about water issues within the northeastern region of shale gas development.
+
+**Agenda**
+
+The [2015 Workshop Agenda](2015-shale-network-workshop/Agenda_Shale_Network_2015_Workshop.pdf) is available.
+
+**Presentations**
+
+The [2015 Workshop Presentations Schedule](2015-shale-network-workshop/Shalenetwork_Workshop_2015_Presenters.pdf) is available. The presentation slides are now available:
+
+-   Evaluating a groundwater supply contamination incident attributed to Marcellus Shale gas development (Garth Llewellyna, et al)
+    -   [Full paper](2015-shale-network-workshop/2015_Llwellyn_Evaluating_agroundwater_supply.pdf "view paper") - Llewellyn, G., F.L. Dorman, J.L. Westand, D. Yoxtheimer, P. Grieve, T. Sowers, E. Humston-Fulmer, S.L. Brantley, 2015. "Evaluating a groundwater supply contamination incident attributed to Marcellus Shale gas development". Proceedings of the National Association of Science 112(20), 6325-6330.
+    -   [Presentation slides](2015-shale-network-workshop/Llewellyn_et_al.pdf "view presentation")
+    -   [Frequently Asked Questions](2015-shale-network-workshop/Frequently-Asked-Questions-about-Llewellyn-et-al-2015.pdf "FAQ")
+-   [Monitoring Design](2015-shale-network-workshop/Betanzo.pptx "view presentation") (Elin Betanzo)
+-   [The Use of Strontium Isotope](2015-shale-network-workshop/Echelon_Chapman.pptx "view presentation") (Liz Chapman)
+-   [Community-based Water Quality Monitoring](2015-shale-network-workshop/Md_Khalequzzaman.pdf "view presentation") (Md. Khalequzzaman)
+-   [Stream Monitoring for Estimating Methane](2015-shale-network-workshop/Risser.pdf "view presentation") (Susan Brantley, et al)
+-   [Dissolved Methane Method Study](2015-shale-network-workshop/Rock_Vitale.pptx "view presentation") (Rock Vitale)
+-   [Methane Concentrations in Water](2015-shale-network-workshop/Siegel_Perry.pdf "view presentation") (Siegel, et al)
+-   [Evaluation of Macroinvertebrate](2015-shale-network-workshop/Steffy.pptx "view presentation") (Luanne Steffy)
+-   [Environmental concerns with NORM](2015-shale-network-workshop/Zhang_Vidic.pptx "view presentation") (Tieyuan Zhang, Radisav Vidic)
+
+**2015 Workshop Registration**
+
+Registration is now closed. Thank you.

@@ -1,0 +1,21 @@
+---
+title: "Big Data Approach To Water Quality Applied At Shale Drilling Sites"
+date: "January 5, 2017"
+categories: [News, Publication, Research Updates]
+authors: 
+  - name: Matthew Carroll
+---
+
+UNIVERSITY PARK, Pa. — A computer program is diving deep into water quality data from Pennsylvania, helping scientists detect potential environmental impacts of Marcellus Shale gas drilling.
+
+The work, supported by a new $1 million grant from the National Science Foundation, pairs a cross-disciplinary team of Penn State computer scientists and geoscientists studying methane concentrations in the state's streams, rivers and private water wells.
+
+"We want to take a data-driven approach to assess the impact of shale gas development," said Zhenhui "Jessie" Li, assistant professor of information sciences and technology, Penn State, and co-principal investigator on the project. "We are using data-mining techniques and learning computer models to look at how methane concentration correlates with other factors, like distance from unconventional shale gas wells and geological features such as faults."
+
+Methane occurs naturally in waterways, but may also be released by unconventional drilling, or fracking, associated with natural gas development. While environmental impacts from shale drilling appear to be rare compared to the number of drilled wells, the testing will give scientists a better idea of how and why they do occur.
+
+Penn State geoscientists have studied methane concentrations around shale gas drilling for years and have collected large datasets from samples taken by researchers, environmental groups and government agencies. However, sifting through big data is labor intensive, and complex patterns that might reveal potential problems can be difficult for humans to spot.
+
+"It's always been frustrating to me because we get these water datasets that are sort of here, there and everywhere, and you can't put them together into a scientific explanation," said Susan Brantley, distinguished professor of geosciences and director of the Earth and Environmental Systems Institute, Penn State, and principal investigator on the project. "It's like a jigsaw puzzle with a lot of pieces missing. The story is still there, but you can't see it as a human being. I think it's possible the computer techniques that Jessie has can help us pull that story out and fill in some of the missing pieces."
+
+For more information on this project, visit [PSU News](http://news.psu.edu/story/440879/2016/12/07/research/big-data-approach-water-quality-applied-shale-drilling-sites){target="_blank"}

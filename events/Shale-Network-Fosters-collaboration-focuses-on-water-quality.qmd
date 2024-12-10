@@ -1,0 +1,36 @@
+---
+title: "Shale Network Fosters Collaboration, Focuses on Water Quality"
+date: "July 29, 2015"
+image: Shale-Network-Fosters-collaboration-focuses-on-water-quality/image.jpg
+categories: [News, Citizen Science, Community Engagement]
+authors: 
+  - name: Shale Network Team
+---
+
+![](Shale-Network-Fosters-collaboration-focuses-on-water-quality/image.jpg)
+
+STATE COLLEGE, Pa. — A diverse group — from natural gas industry representatives to environmental advocates — gathered recently to discuss the impact of gas drilling on waterways at the 2015 Shale Network Workshop.
+
+The annual workshop gives scientists a chance to share what they’ve learned over the last year about the impact of Marcellus shale gas drilling on the region’s streams and rivers, and to plan the best way to monitor water quality going forward.
+
+The workshop also brings together groups that might not otherwise sit down to share concerns, observations and data – including citizen scientists, faculty, researchers and representatives from industry, government agencies and nonprofits.
+
+“It is important to have these groups together because it is so rare for industry personnel, watershed groups, government agency workers and academics to interact informally and while discussing science – in a non-combative atmosphere,” said Susan Brantley, distinguished professor of geosciences and director of the Earth and Environmental Systems Institute (EESI) at Penn State.
+
+“By promoting excellent science in a venue where researchers talk to non-researchers, an atmosphere is created that allows real conversation,” Brantley said. “One of the reasons that Shale Network can do this is that it has been funded by the National Science Foundation and by Penn State, both of which are honest brokers in the shale gas debates.”
+
+The NSF-funded Shale Network is a collaborative effort to collect and analyze data on water quality in the Marcellus shale region. Its members include faculty and researchers from Penn State, the University of Pittsburgh, Dickinson College and the Consortium of Universities for the Advancement of Hydrologic Science Inc. (CUAHSI).
+
+In its fourth year, the conference drew about 80 participants, including representatives from Chesapeake Energy, the Susquehanna River Basin Commission, the Washington County Watershed Alliance, the US Geological Survey, the Pennsylvania Department of Environmental Protection and NSF.
+
+Shale Network hosted the event through EESI at the Atherton Hotel in State College. Participants focused on what they have learned so far about the impact of natural gas drilling on water quality and where future efforts should be directed.
+
+“This year we further discussed both the fact the only a very few significant problems have been identified in water quality data in Pennsylvania that can be attributed to shale gas activities, but that some of these problems must nonetheless be better understood,” Brantley said. “One area of growing interest is the idea that we might want to monitor methane dissolved in streams as a way to look for leakage of gas into aquifers.”
+
+At the conference, Brantley discussed enlisting citizen scientists to help gather baseline information on area waterways using a new stream-based monitoring technique that can detect methane levels. Baseline information helps researchers detect future changes in water quality.
+
+The data is important as some have raised concerns that hydraulic fracturing or fracking, the process used to extract gas or oil from shale deep beneath the ground, could lead to potential pollution of waterways because of spills or improperly sealed sites.
+
+Shale Network has already collected a large database from water samples from the region. Software designed by CUAHSI and made publically available lets researchers track data to detect possible changes in water quality.
+
+Funded by a four-year grant from the NSF, the Shale Network is in its final year. Researchers are looking at options for continuing the project. Data will continue to be available through CUASHI.
