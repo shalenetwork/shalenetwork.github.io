@@ -1,0 +1,18 @@
+---
+title: "Groundwater Analyses from Pennsylvania as of September 2024"
+description: |
+  a compiled hydrogeochemical dataset containing all groundwater analyses from Pennsylvania as of September 2024
+date: "September 25, 2024"
+categories: [Hydrogeochemistry, Groundwater, Pennsylvania]
+image: pa-groundwater-2024.jpg
+page-layout: full
+toc: true
+freeze: auto
+title-block-banner: true
+sidebar: false
+---
+
+![](pa-groundwater-2024.jpg)
+
+This dataset is a subset of the Shale Network database and includes all groundwater samples from Pennsylvania in the Shale Network database as of September 2024. [Click this link](https://doi.org/10.1021/acs.est.4c03371){target="_blank"} to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this [data DOI](https://doi.org/10.26208/DT5Y-5B37){target="_blank"}.
+

@@ -24,6 +24,24 @@ listing:
     table-hover: true
     max-items: 3
     feed: false
+
+  - id: data-highlights
+    contents: 
+    - "database/highlights/*.qmd"
+    sort: "date desc"
+    type: grid
+    grid-item-border: true
+    grid-item-align: left
+    max-description-length: 175
+    date-format: medium
+    categories: false
+    image-placeholder: /assets/artworks/sn-logo.png
+    sort-ui: false
+    filter-ui: false
+    table-hover: true
+    max-items: 3
+    feed: false
+
 ---
 
 ## Status of the Shale Network Database
@@ -66,4 +84,9 @@ listing:
 ## [News & Events](events/index.qmd)
 
 ::: {#events}
+:::
+
+## [Dataset Highlights](database/data-highlights.qmd)
+
+::: {#data-highlights}
 :::

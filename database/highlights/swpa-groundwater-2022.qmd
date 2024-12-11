@@ -1,0 +1,18 @@
+---
+title: "Groundwater Analyses from Bradford County in Pennsylvania as of May 2018"
+description: |
+  a compiled hydrogeochemical dataset containing all groundwater analyses from Bradford County in Pennsylvania as of May 2018
+date: "May 22, 2018"
+categories: [Hydrogeochemistry, Groundwater, Bradford County]
+image: bradford-co-groundwater-2018.jpg
+page-layout: full
+toc: true
+freeze: auto
+title-block-banner: true
+sidebar: false
+---
+
+![](bradford-co-groundwater-2018.jpg)
+
+This dataset is a subset of the Shale Network database and includes all groundwater samples from Bradford County in Pennsylvania in the Shale Network database as of May 2018. [Click this link](https://doi.org/10.1021/acs.est.8b01123){target="_blank"} to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this [data DOI](https://doi.org/10.26208/rj0h-qf52){target="_blank"}.
+

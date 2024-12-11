@@ -2,7 +2,8 @@
 title: "Stray Gas in Sugar Run Lycoming County"
 description: |
   a compiled hydrogeochemical dataset covering both surface water and groundwater along Sugar Run in Lycoming County
-categories: [Methane, Surface Water, Groundwater]
+date: "November 19, 2018"
+categories: [Methane, Hydrogeochemistry, Surface Water, Groundwater, Lycoming County]
 image: Lycoming-County.png
 page-layout: full
 toc: true
@@ -13,5 +14,5 @@ sidebar: false
 
 ![](Sugar-Run.png)
 
-The Shale Network Team was involved in measuring methane in Sugar Run Lycoming County. [Click this link](https://www.pnas.org/doi/10.1073/pnas.1809013115){target="_blank"} to access the corresponding peer-reviewed article and datasets.
+The Shale Network Team was involved in measuring methane in Sugar Run Lycoming County. [Click this link](https://doi.org/10.1073/pnas.1809013115){target="_blank"} to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this [data DOI](https://doi.org/10.18113/D35M2X){target="_blank"}.
 

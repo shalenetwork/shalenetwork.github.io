@@ -1,0 +1,18 @@
+---
+title: "Stream Water Analyses from Northeastern U.S as of June 2020"
+description: |
+  a compiled hydrogeochemical dataset containing all stream water analyses from Northeastern U.S as of June 2020
+date: "June 10, 2020"
+categories: [Methane, Hydrogeochemistry, Surface Water, Northeastern U.S]
+image: sn-stream-2020.png
+page-layout: full
+toc: true
+freeze: auto
+title-block-banner: true
+sidebar: false
+---
+
+![](sn-stream-2020.png)
+
+This dataset is a subset of the Shale Network database and includes all stream water samples from Northeastern U.S in the Shale Network database as of June 2020. [Click this link](https://doi.org/10.1016/j.scitotenv.2020.140105){target="_blank"} to access the dataset (as Appendix A) and the corresponding peer-reviewed article that interprets the dataset.
+

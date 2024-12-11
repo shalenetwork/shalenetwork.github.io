@@ -1,0 +1,18 @@
+---
+title: "Groundwater Analyses from Southwestern Pennsylvania as of June 2022"
+description: |
+  a compiled hydrogeochemical dataset containing all groundwater analyses from Southwestern Pennsylvania as of June 2022
+date: "June 29, 2022"
+categories: [Hydrogeochemistry, Groundwater, Southwestern Pennsylvania]
+image: swpa-groundwater-2022.png
+page-layout: full
+toc: true
+freeze: auto
+title-block-banner: true
+sidebar: false
+---
+
+![](swpa-groundwater-2022.png)
+
+This dataset is a subset of the Shale Network database and includes all groundwater samples from Southwestern Pennsylvania in the Shale Network database as of June 2022. [Click this link](https://doi.org/10.1021/acs.est.2c00001){target="_blank"} to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this [data DOI](https://doi.org/10.26208/2nqe-wd53){target="_blank"}.
+
