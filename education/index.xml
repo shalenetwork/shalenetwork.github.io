@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Shale Network</title>
+<link>http://www.shalenetwork.org/education/</link>
+<atom:link href="http://www.shalenetwork.org/education/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Wed, 11 Dec 2024 05:46:39 GMT</lastBuildDate>
+<item>
+  <title>Environmental Issues Related to Brine Disposal from Hydrocarbon Development</title>
+  <link>http://www.shalenetwork.org/education/env-brine.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course description</h2>
+<p>This course, <a href="https://serc.carleton.edu/hydromodules/units/191769.html" target="_blank">Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania</a>, is designed to teach how to use online datasets to investigate the stream water chemistry upstream and downstream to brine water disposal site at multiple locations in Pennsylvania watersheds. This course is offered through the <a href="https://serc.carleton.edu" target="_blank">SERC</a> platform, in partnership with <a href="https://data.cuahsi.org" target="_blank">CUAHSI HydroClient</a></p>
+<p>In this course, learners will explore three aspects of oil and gas development-related production waters:</p>
+<ol type="1">
+<li>why the waters cannot be discharged directly into rivers;</li>
+<li>how disposal can be sometimes associated with earthquakes;</li>
+<li>how Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.shalenetwork.org/education/water-hydrocarbon.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<figcaption>This image was created with the assistance of DALL·E</figcaption>
+</figure>
+</div>
+</section>
+<section id="when-is-this-taught" class="level2">
+<h2 class="anchored" data-anchor-id="when-is-this-taught">When is this taught?</h2>
+<p>This course is completely online and self-paced. You can take the course on the <a href="https://serc.carleton.edu/hydromodules/units/191769.html" target="_blank">SERC</a> platform anytime you want.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>SERC</category>
+  <category>Earth and Environmental Sciences</category>
+  <category>CUAHSI</category>
+  <guid>http://www.shalenetwork.org/education/env-brine.html</guid>
+  <pubDate>Wed, 11 Dec 2024 05:46:39 GMT</pubDate>
+  <media:content url="http://www.shalenetwork.org/education/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Using Methane Concentrations in Streams to Investigate for Potential Leakage of Oil and Gas Wells in Pennsylvania</title>
+  <link>http://www.shalenetwork.org/education/env-methane.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course description</h2>
+<p>This course, <a href="https://serc.carleton.edu/hydromodules/units/143615.html" target="_blank">Using Methane Concentrations in Streams to Investigate for Potential Leakage of Oil and Gas Wells in Pennsylvania</a>, is to guide students through the initial stages of a hypothetical water supply complaint investigation for 3 scenarios where methane has been detected in surface water in PA. This activity uses data accessible through the CUAHSI database (Shale Network (2015)) at three stream locations, and introduces three different potential sources of the observed in-stream methane. The data were collected by personnel from Penn State, the U.S. Geological Survey, and volunteers. This course is offered through the <a href="https://serc.carleton.edu" target="_blank">SERC</a> platform, in partnership with <a href="https://data.cuahsi.org" target="_blank">CUAHSI HydroClient</a></p>
+<p>In this course, students will first investigate a low methane concentration measured in Southwest PA in Washington County. Students will find the analyses for samples in this area in HydroClient, then you will look up nearby well locations and records using the PA Oil and Gas Mapping Tool and the Exploration and Development Web Information Network (EDWIN), respectively, to begin to assess whether any of the streams may be contaminated by gas or oil wells. Students will also learn something about possible methane sources.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.shalenetwork.org/education/stream-methane.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<figcaption>This image was created with the assistance of DALL·E</figcaption>
+</figure>
+</div>
+</section>
+<section id="when-is-this-taught" class="level2">
+<h2 class="anchored" data-anchor-id="when-is-this-taught">When is this taught?</h2>
+<p>This course is completely online and self-paced. You can take the course on the <a href="https://serc.carleton.edu/hydromodules/units/143615.html" target="_blank">SERC</a> platform anytime you want.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>SERC</category>
+  <category>Earth and Environmental Sciences</category>
+  <category>CUAHSI</category>
+  <guid>http://www.shalenetwork.org/education/env-methane.html</guid>
+  <pubDate>Wed, 11 Dec 2024 05:46:39 GMT</pubDate>
+  <media:content url="http://www.shalenetwork.org/education/stream-methane.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Data Science in Earth and Environmental Sciences</title>
+  <link>http://www.shalenetwork.org/education/hydrolearn-ds-ees.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course description</h2>
+<p>This course, <a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" target="_blank">Data Science in Earth and Environmental Sciences</a>, is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences. This course is offered through the <a href="https://www.hydrolearn.org" target="_blank">HydroLearn</a> platform, in partnership with <a href="https://www.hydroshare.org" target="_blank">CUAHSI HydroShare</a></p>
+<p>This course is designed to serve a broad mix of learners whose coding expertise ranges from beginner to expert level and whose geoscience-related research interests. At the end of this course, you should be able to describe and implement the steps involved in:</p>
+<ol type="1">
+<li>reviewing and modifying others’ codes in R and/or Python</li>
+<li>writing codes in R and/or Python</li>
+<li>developing and implementing a data science workflow for a data-driven project</li>
+<li>designing a data science project by conceptualizing a domain science problem</li>
+</ol>
+<p>This will be accomplished through activities within each section. Results from each activity will be recorded in specified results templates. The results templates for each activity can be found at the beginning of each activity. The results templates are organized such that results from one activity can easily be used in successive activities.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.shalenetwork.org/education/hydrolearn-ds-ees.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<figcaption>This image was created with the assistance of DALL·E</figcaption>
+</figure>
+</div>
+</section>
+<section id="when-is-this-taught" class="level2">
+<h2 class="anchored" data-anchor-id="when-is-this-taught">When is this taught?</h2>
+<p>This course is completely online and self-paced. You can take the course on the <a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" target="_blank">HydroLearn</a> platform anytime you want.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>HydroLearn</category>
+  <category>R</category>
+  <category>Python</category>
+  <category>Earth and Environmental Sciences</category>
+  <category>Data Sciences</category>
+  <category>CUAHSI</category>
+  <guid>http://www.shalenetwork.org/education/hydrolearn-ds-ees.html</guid>
+  <pubDate>Wed, 11 Dec 2024 05:46:39 GMT</pubDate>
+  <media:content url="http://www.shalenetwork.org/education/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
+</item>
+</channel>
+</rss>

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Shale Network</title>
+<title>Education – Shale Network</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +23,29 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./assets/artworks/sn-logo-notext.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-b0f6d756a901a3cb8549ae78e321e986.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-dd47088a5b89d2a8c480c7a6a58dd715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-56b94ad128539ed5e9b395f3581b4f51.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-0b751045761dc66e0d839ce2f2dfaaf7.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../assets/artworks/sn-logo-notext.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-b0f6d756a901a3cb8549ae78e321e986.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-dd47088a5b89d2a8c480c7a6a58dd715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-7612f6e0b1106d3a92adc9fdf512468c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-73c2820bf46f33337d855b08545c0f72.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,13 +72,74 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="assets/css/styles.css">
-<meta name="twitter:title" content="About – Shale Network">
-<meta name="twitter:description" content="">
-<meta name="twitter:card" content="summary">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../assets/css/styles.css">
+<link rel="alternate" type="application/rss+xml" title="Shale Network" href="index.xml" data-external="1"><meta name="twitter:title" content="Education – Shale Network">
+<meta name="twitter:description" content="We believe in open education and open science">
+<meta name="twitter:image" content="http://www.shalenetwork.org/education/water-hydrocarbon.png">
+<meta name="twitter:image-height" content="366">
+<meta name="twitter:image-width" content="640">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -86,8 +149,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/artworks/sn-logo.png" alt="Shale Network Project" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/artworks/sn-logo.png" alt="Shale Network Project" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -97,27 +160,65 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../about/overview.html">
+ <span class="dropdown-text">Shale Network Overview</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./data.html"> 
-<span class="menu-text">Data</span></a>
+        <li>
+    <a class="dropdown-item" href="../about/history.html">
+ <span class="dropdown-text">History</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./education.html"> 
+    <a class="nav-link" href="../get-involved.html"> 
+<span class="menu-text">Get Involved</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-data" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Data</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-data">    
+        <li>
+    <a class="dropdown-item" href="../database/data-overview.html">
+ <span class="dropdown-text">Database Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../database/data-access.html">
+ <span class="dropdown-text">Data Access</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../database/contribute-data.html">
+ <span class="dropdown-text">Contribute Data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../database/data-use-and-embargo-policy.html">
+ <span class="dropdown-text">Data Use and Embargo Policy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../database/data-highlights.html">
+ <span class="dropdown-text">Dataset Highlights</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="../education/index.html" aria-current="page"> 
 <span class="menu-text">Education</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./events/index.html"> 
+    <a class="nav-link" href="../events/index.html"> 
 <span class="menu-text">News &amp; Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../people/people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
 </ul>
@@ -131,13 +232,14 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">About</h1>
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Education</h1>
+            <p class="subtitle lead">We believe in open education and open science</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -145,24 +247,138 @@ ul.task-list li input[type="checkbox"] {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q1VBSFNJ">CUAHSI <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RGF0YSUyMFNjaWVuY2Vz">Data Sciences <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWFydGglMjBhbmQlMjBFbnZpcm9ubWVudGFsJTIwU2NpZW5jZXM=">Earth and Environmental Sciences <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SHlkcm9MZWFybg==">HydroLearn <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHl0aG9u">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U0VSQw==">SERC <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
 
-<p>About this site</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="U0VSQyUyQ0VhcnRoJTIwYW5kJTIwRW52aXJvbm1lbnRhbCUyMFNjaWVuY2VzJTJDQ1VBSFNJ" data-listing-file-modified-sort="1733895972437" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<a href="../education/env-brine.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../education/water-hydrocarbon.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Environmental Issues Related to Brine Disposal from Hydrocarbon Development
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('U0VSQw=='); return false;">
+SERC
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RWFydGglMjBhbmQlMjBFbnZpcm9ubWVudGFsJTIwU2NpZW5jZXM='); return false;">
+Earth and Environmental Sciences
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q1VBSFNJ'); return false;">
+CUAHSI
+</div>
+</div>
+<div class="card-text listing-description">
+<p>an online course on investigating environmental impact of oil and gas production on water quality</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="U0VSQyUyQ0VhcnRoJTIwYW5kJTIwRW52aXJvbm1lbnRhbCUyMFNjaWVuY2VzJTJDQ1VBSFNJ" data-listing-file-modified-sort="1733895972437" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+<a href="../education/env-methane.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../education/stream-methane.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Using Methane Concentrations in Streams to Investigate for Potential Leakage of Oil and Gas Wells in Pennsylvania
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('U0VSQw=='); return false;">
+SERC
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RWFydGglMjBhbmQlMjBFbnZpcm9ubWVudGFsJTIwU2NpZW5jZXM='); return false;">
+Earth and Environmental Sciences
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q1VBSFNJ'); return false;">
+CUAHSI
+</div>
+</div>
+<div class="card-text listing-description">
+<p>an online course on investigating methane content in Pennsylvanian streams</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="SHlkcm9MZWFybiUyQ1IlMkNQeXRob24lMkNFYXJ0aCUyMGFuZCUyMEVudmlyb25tZW50YWwlMjBTY2llbmNlcyUyQ0RhdGElMjBTY2llbmNlcyUyQ0NVQUhTSQ==" data-listing-file-modified-sort="1733895972441" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+<a href="../education/hydrolearn-ds-ees.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../education/hydrolearn-ds-ees.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Science in Earth and Environmental Sciences
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('SHlkcm9MZWFybg=='); return false;">
+HydroLearn
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">
+Python
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RWFydGglMjBhbmQlMjBFbnZpcm9ubWVudGFsJTIwU2NpZW5jZXM='); return false;">
+Earth and Environmental Sciences
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFNjaWVuY2Vz'); return false;">
+Data Sciences
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q1VBSFNJ'); return false;">
+CUAHSI
+</div>
+</div>
+<div class="card-text listing-description">
+<p>an online course on introducing data sciences in earth and environmental sciences</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -754,5 +970,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

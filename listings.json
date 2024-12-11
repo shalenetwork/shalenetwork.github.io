@@ -1,5 +1,19 @@
 [
   {
+    "listing": "/database/data-highlights.html",
+    "items": [
+      "/database/highlights/sugar-run-lycoming.html"
+    ]
+  },
+  {
+    "listing": "/education/index.html",
+    "items": [
+      "/education/env-brine.html",
+      "/education/env-methane.html",
+      "/education/hydrolearn-ds-ees.html"
+    ]
+  },
+  {
     "listing": "/events/index.html",
     "items": [
       "/events/2022-shale-network-workshop.html",
@@ -30,10 +44,6 @@
       "/events/2013-shale-network-workshop.html",
       "/events/2012-shale-network-workshop.html"
     ]
-  },
-  {
-    "listing": "/education.html",
-    "items": []
   },
   {
     "listing": "/index.html",
