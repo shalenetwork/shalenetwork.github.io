@@ -1,0 +1,29 @@
+---
+title: "Shale Network Overview"
+subtitle: "A Network of Energy-Water Researchers"
+page-layout: full
+sidebar: false
+toc: false
+title-block-banner: true
+---
+
+## Why Shale Network?
+
+The Shale Network project (“Shale Network”) revolves around a relational database containing water resource information from energy production regions. However, the Shale Network is much more than just a database—it is an integrated system comprising a database, a software ecosystem, and a thriving community.
+
+## Our Mission
+
+Our mission is to:
+
+-   Identify groups that are collecting water data in the region of hydrocarbon extraction from shales and other target formations and create a sustainable network among these groups by arranging and helping to organize their data and generate opportunities to discuss and analyze the data
+-   Work with the Consortium of Universities for the Advancement of Hydrologic Sciences, Inc. (CUAHSI) to organize a water database that can be used to establish background concentrations and to assess impacts across hydrocarbon extraction regions
+-   Train students in database development and use for betterment of communities impacted by hydrocarbon extraction
+-   Facilitate community groups in organizing, collecting, and interpreting water data
+-   Evaluate hydrogeochemical data using geographic information systems (GIS) that incorporate population and economic data in order to evaluate the potential for public health risk factors
+
+## Our Vision
+
+The Shale Network will create a central and accessible repository for geochemistry and hydrology data collected by watershed groups, government agencies, industry stakeholders, and universities working together to document the natural variability and potential environmental impacts of hydrocarbon extraction activities.
+
+
+

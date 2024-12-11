@@ -1,0 +1,69 @@
+---
+title: "Meet the Community"
+subtitle: "Shale Network is a global collaboration involving a consortium of researchers and institutions."
+html-table-processing: none
+page-layout: full
+sidebar: false
+---
+
+## Leadership
+```{=html}
+<table border="0" cellpadding=10px cellspacing="0">
+  <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="portraits/Tao_Wen.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Tao Wen<BR>
+        Assistant Professor of Earth and Environmenmental Sciences<BR>
+        Syracuse University<BR>
+      </strong>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="portraits/Susan_Brantley.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Susan L. Brantley<BR>
+        Evan Pugh University Professor, Emeritus, and Atherton Professor<BR>
+        Pennsylvania State University<BR>
+      </strong>
+    </td>
+  </tr>
+</table>
+```
+
+## Working Group Members
+```{=html}
+<table border="0" cellpadding=10px cellspacing="0">
+  <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Ruta Basijokaite<BR>
+        Postdoctoral Scholar<BR>
+        Syracuse University<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Data Wrangler
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="portraits/Nick_Su.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Nick Su<BR>
+        Ph.D. Student<BR>
+        Syracuse University<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Data Wrangler
+      </p>
+    </td>
+  </tr>
+</table>
+```

@@ -1,0 +1,21 @@
+---
+title: "Dataset Highlights"
+subtitle: "We believe in open education and open science" 
+listing:
+  contents:
+    - highlights/*.qmd
+  feed: true
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+  table-hover: true
+page-layout: full
+title-block-banner: true
+sidebar: false
+---

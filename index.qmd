@@ -1,6 +1,6 @@
 ---
 title: "Shale Network"
-subtitle: "a project centered on a national-scale database of water resources data in oil and gas production regions"
+subtitle: "A Network of Energy-Water Researchers"
 page-layout: full
 sidebar: false
 toc: false

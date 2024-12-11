@@ -38,16 +38,36 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: data.qmd
-        text: Data
-      - href: education.qmd
+      - sidebar:about
+      - href: get-involved.qmd
+        text: Get Involved
+      - sidebar:data
+      - href: education/index.qmd
         text: Education
       - href: events/index.qmd
         text: News & Events
-      - href: people.qmd
+      - href: people/people.qmd
         text: People
+
+  sidebar: 
+    - id: about
+      title: About
+      style: docked
+      collapse-level: 2
+      contents:
+        - about/overview.qmd
+        - about/history.qmd
+
+    - id: data
+      title: Data
+      style: docked
+      collapse-level: 2
+      contents: 
+        - database/data-overview.qmd
+        - database/data-access.qmd
+        - database/contribute-data.qmd
+        - database/data-use-and-embargo-policy.qmd
+        - database/data-highlights.qmd
 
   page-footer: 
     center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}

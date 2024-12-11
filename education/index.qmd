@@ -2,11 +2,6 @@
 title: "Education"
 subtitle: "We believe in open education and open science" 
 listing:
-  contents:
-    - courses/env-hydrocarbon/index.ipynb
-    - courses/hydrolearn-ds-ees/index.ipynb
-    - courses/ear-419-environmental-aqueous-geochemistry/index.ipynb
-    - courses/ear-400-ml-ees/index.ipynb
   feed: true
   sort: "date desc"
   type: grid

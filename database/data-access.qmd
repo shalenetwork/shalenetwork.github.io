@@ -1,0 +1,89 @@
+---
+title: "Data Access"
+page-layout: full
+sidebar: false
+toc: false
+title-block-banner: true
+---
+
+## Example Analytes
+
+This is a **_partial list_** of analytes that are included in ShaleNetwork Database. Not all sites provide data for all analytes.
+
+**Common water quality measurements:**
+
+-   pH
+-   Na
+-   K
+-   Mg
+-   Ca
+-   Sulfate
+-   Chloride
+-   Bromide
+-   NH4
+-   Nitrate
+-   Nitrite
+-   Total N
+-   Acidity
+-   Alkalinity
+-   BOD
+-   COD
+-   Hardness
+-   TDS
+
+**Specific conductance, TSS Trace elements:**
+
+-   Al
+-   As
+-   Ba
+-   Be
+-   B
+-   Cd
+-   Cr
+-   Co
+-   Cu
+-   Fe
+-   Pb
+-   Li
+-   Mg
+-   Mn
+-   Hg
+-   Mo
+-   Ni
+-   Pb
+-   Se
+-   Ag
+-   Sr
+-   Th
+-   U
+-   Zn
+
+**Naturally occurring radioactive material measurements:**
+
+-   Gross alpha
+-   Gross beta
+-   Ra-226
+-   Ra-228
+
+**Organic constituents:**
+
+-   Acetophenone
+-   Benzene
+-   Bis(2-ethylhexyl) phthalate
+-   Ethylbenzene
+-   Ethylene glycol
+-   Methanol
+-   Methylene blue active substances
+-   Napthalene
+-   Oil and grease
+-   Phenolics
+-   Toluene
+-   Xylenes
+
+## Data Access
+
+There are multiple ways to access the data included in the Shale Network Database:
+
+-   CUAHSI HydroClient website: [https://data.cuahsi.org/](https://data.cuahsi.org/){target="_blank"}
+-   Individual datasets are published and interpreted in peer-reviewed articles. These datasets can be accessed via the data DOI that is included in the corresponding article. These datasets are all hosted on the [Penn State DataCommons](https://www.datacommons.psu.edu/){target="_blank"} and/or [CUAHSI HydroShare](https://www.hydroshare.org/){target="_blank"}.
+-   Following each major data upload, the Shale Network team will harvest the entire database and publish a snapshot on CUAHSI HydroShare. To request access, you may email [Dr. Tao Wen](mailto:twen08@syr.edu).

@@ -1,0 +1,28 @@
+---
+title: "Environmental Issues Related to Brine Disposal from Hydrocarbon Development"
+description: |
+  an online course on investigating environmental impact of oil and gas production on water quality
+categories: [SERC, Earth and Environmental Sciences, CUAHSI]
+image: water-hydrocarbon.png
+page-layout: full
+toc: true
+freeze: auto
+title-block-banner: false
+sidebar: false
+---
+
+## Course description
+
+This course, [Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania](https://serc.carleton.edu/hydromodules/units/191769.html){target=_blank}, is designed to teach how to use online datasets to investigate the stream water chemistry upstream and downstream to brine water disposal site at multiple locations in Pennsylvania watersheds. This course is offered through the [SERC](https://serc.carleton.edu){target=_blank} platform, in partnership with [CUAHSI HydroClient](https://data.cuahsi.org){target=_blank}
+
+In this course, learners will explore three aspects of oil and gas development-related production waters:
+
+1. why the waters cannot be discharged directly into rivers;
+2. how disposal can be sometimes associated with earthquakes;
+3. how Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data.
+
+![This image was created with the assistance of DALL·E](water-hydrocarbon.png){width=70%}
+
+## When is this taught?
+
+This course is completely online and self-paced. You can take the course on the [SERC](https://serc.carleton.edu/hydromodules/units/191769.html){target=_blank} platform anytime you want.

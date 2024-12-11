@@ -18,7 +18,7 @@ Workshop participants reached eight conclusions. First, we discovered that exten
 
 **Workshop Materials**
 
--   Opening presentation
+-   [Opening presentation](2012-shale-network-workshop/ShaleNetwork_Workshop_April2012.pdf)
 -   Surface water impacts presentation
 -   Workshop agenda
 

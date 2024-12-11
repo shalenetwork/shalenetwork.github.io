@@ -1,0 +1,24 @@
+---
+title: "Using Methane Concentrations in Streams to Investigate for Potential Leakage of Oil and Gas Wells in Pennsylvania"
+description: |
+  an online course on investigating methane content in Pennsylvanian streams
+categories: [SERC, Earth and Environmental Sciences, CUAHSI]
+image: stream-methane.png
+page-layout: full
+toc: true
+freeze: auto
+title-block-banner: false
+sidebar: false
+---
+
+## Course description
+
+This course, [Using Methane Concentrations in Streams to Investigate for Potential Leakage of Oil and Gas Wells in Pennsylvania](https://serc.carleton.edu/hydromodules/units/143615.html){target=_blank}, is to guide students through the initial stages of a hypothetical water supply complaint investigation for 3 scenarios where methane has been detected in surface water in PA. This activity uses data accessible through the CUAHSI database (Shale Network (2015)) at three stream locations, and introduces three different potential sources of the observed in-stream methane. The data were collected by personnel from Penn State, the U.S. Geological Survey, and volunteers. This course is offered through the [SERC](https://serc.carleton.edu){target=_blank} platform, in partnership with [CUAHSI HydroClient](https://data.cuahsi.org){target=_blank}
+
+In this course, students will first investigate a low methane concentration measured in Southwest PA in Washington County. Students will find the analyses for samples in this area in HydroClient, then you will look up nearby well locations and records using the PA Oil and Gas Mapping Tool and the Exploration and Development Web Information Network (EDWIN), respectively, to begin to assess whether any of the streams may be contaminated by gas or oil wells. Students will also learn something about possible methane sources.
+
+![This image was created with the assistance of DALL·E](stream-methane.png){width=70%}
+
+## When is this taught?
+
+This course is completely online and self-paced. You can take the course on the [SERC](https://serc.carleton.edu/hydromodules/units/143615.html){target=_blank} platform anytime you want.
