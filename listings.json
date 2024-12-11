@@ -2,7 +2,11 @@
   {
     "listing": "/database/data-highlights.html",
     "items": [
-      "/database/highlights/sugar-run-lycoming.html"
+      "/database/highlights/pa-groundwater-2024.html",
+      "/database/highlights/bradford-co-groundwater-2018.html",
+      "/database/highlights/sn-stream-2020.html",
+      "/database/highlights/sugar-run-lycoming.html",
+      "/database/highlights/swpa-groundwater-2022.html"
     ]
   },
   {
@@ -74,7 +78,12 @@
       "/events/High-School-Students-Learning-Water-Quality-Monitoring.html",
       "/events/2014-shale-network-workshop.html",
       "/events/2013-shale-network-workshop.html",
-      "/events/2012-shale-network-workshop.html"
+      "/events/2012-shale-network-workshop.html",
+      "/database/highlights/pa-groundwater-2024.html",
+      "/database/highlights/bradford-co-groundwater-2018.html",
+      "/database/highlights/sn-stream-2020.html",
+      "/database/highlights/sugar-run-lycoming.html",
+      "/database/highlights/swpa-groundwater-2022.html"
     ]
   }
 ]

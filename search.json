@@ -168,6 +168,20 @@
     "text": "When is this taught?\nThis course is completely online and self-paced. You can take the course on the SERC platform anytime you want."
   },
   {
+    "objectID": "database/highlights/sugar-run-lycoming.html",
+    "href": "database/highlights/sugar-run-lycoming.html",
+    "title": "Stray Gas in Sugar Run Lycoming County",
+    "section": "",
+    "text": "The Shale Network Team was involved in measuring methane in Sugar Run Lycoming County. Click this link to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this data DOI."
+  },
+  {
+    "objectID": "database/highlights/pa-groundwater-2024.html",
+    "href": "database/highlights/pa-groundwater-2024.html",
+    "title": "Groundwater Analyses from Pennsylvania as of September 2024",
+    "section": "",
+    "text": "This dataset is a subset of the Shale Network database and includes all groundwater samples from Pennsylvania in the Shale Network database as of September 2024. Click this link to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this data DOI."
+  },
+  {
     "objectID": "database/data-use-and-embargo-policy.html",
     "href": "database/data-use-and-embargo-policy.html",
     "title": "Data Use and Embargo Policy",
@@ -182,7 +196,7 @@
     "href": "database/data-highlights.html",
     "title": "Dataset Highlights",
     "section": "",
-    "text": "Stray Gas in Sugar Run Lycoming County\n\n\n\nMethane\n\n\nSurface Water\n\n\nGroundwater\n\n\n\na compiled hydrogeochemical dataset covering both surface water and groundwater along Sugar Run in Lycoming County\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Groundwater Analyses from Pennsylvania as of September 2024\n\n\n\nHydrogeochemistry\n\n\nGroundwater\n\n\nPennsylvania\n\n\n\na compiled hydrogeochemical dataset containing all groundwater analyses from Pennsylvania as of September 2024\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroundwater Analyses from Southwestern Pennsylvania as of June 2022\n\n\n\nHydrogeochemistry\n\n\nGroundwater\n\n\nSouthwestern Pennsylvania\n\n\n\na compiled hydrogeochemical dataset containing all groundwater analyses from Southwestern Pennsylvania as of June 2022\n\n\n\n\n\n\nJun 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStream Water Analyses from Northeastern U.S as of June 2020\n\n\n\nMethane\n\n\nHydrogeochemistry\n\n\nSurface Water\n\n\nNortheastern U.S\n\n\n\na compiled hydrogeochemical dataset containing all stream water analyses from Northeastern U.S as of June 2020\n\n\n\n\n\n\nJun 10, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStray Gas in Sugar Run Lycoming County\n\n\n\nMethane\n\n\nHydrogeochemistry\n\n\nSurface Water\n\n\nGroundwater\n\n\nLycoming County\n\n\n\na compiled hydrogeochemical dataset covering both surface water and groundwater along Sugar Run in Lycoming County\n\n\n\n\n\n\nNov 19, 2018\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroundwater Analyses from Bradford County in Pennsylvania as of May 2018\n\n\n\nHydrogeochemistry\n\n\nGroundwater\n\n\nBradford County\n\n\n\na compiled hydrogeochemical dataset containing all groundwater analyses from Bradford County in Pennsylvania as of May 2018\n\n\n\n\n\n\nMay 22, 2018\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Dataset Highlights"
     ]
@@ -358,11 +372,25 @@
     ]
   },
   {
-    "objectID": "database/highlights/sugar-run-lycoming.html",
-    "href": "database/highlights/sugar-run-lycoming.html",
-    "title": "Stray Gas in Sugar Run Lycoming County",
+    "objectID": "database/highlights/bradford-co-groundwater-2018.html",
+    "href": "database/highlights/bradford-co-groundwater-2018.html",
+    "title": "Groundwater Analyses from Southwestern Pennsylvania as of June 2022",
     "section": "",
-    "text": "The Shale Network Team was involved in measuring methane in Sugar Run Lycoming County. Click this link to access the corresponding peer-reviewed article and datasets."
+    "text": "This dataset is a subset of the Shale Network database and includes all groundwater samples from Southwestern Pennsylvania in the Shale Network database as of June 2022. Click this link to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this data DOI."
+  },
+  {
+    "objectID": "database/highlights/sn-stream-2020.html",
+    "href": "database/highlights/sn-stream-2020.html",
+    "title": "Stream Water Analyses from Northeastern U.S as of June 2020",
+    "section": "",
+    "text": "This dataset is a subset of the Shale Network database and includes all stream water samples from Northeastern U.S in the Shale Network database as of June 2020. Click this link to access the dataset (as Appendix A) and the corresponding peer-reviewed article that interprets the dataset."
+  },
+  {
+    "objectID": "database/highlights/swpa-groundwater-2022.html",
+    "href": "database/highlights/swpa-groundwater-2022.html",
+    "title": "Groundwater Analyses from Bradford County in Pennsylvania as of May 2018",
+    "section": "",
+    "text": "This dataset is a subset of the Shale Network database and includes all groundwater samples from Bradford County in Pennsylvania in the Shale Network database as of May 2018. Click this link to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this data DOI."
   },
   {
     "objectID": "education/env-methane.html",
@@ -510,5 +538,12 @@
     "title": "Shale Network",
     "section": "News & Events",
     "text": "News & Events\n\n\n\n\n\n\n\n\n2022 Shale Network Workshop\n\n\n\n\n\n\n\n\n\nMay 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n2021 Shale Network Workshop\n\n\n\n\n\n\n\n\n\nMay 13, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Shale Network Workshop [CANCELLED]\n\n\n\n\n\n\n\n\n\nMay 14, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#dataset-highlights",
+    "href": "index.html#dataset-highlights",
+    "title": "Shale Network",
+    "section": "Dataset Highlights",
+    "text": "Dataset Highlights\n\n\n\n\n\n\n\n\n\n\nGroundwater Analyses from Pennsylvania as of September 2024\n\n\na compiled hydrogeochemical dataset containing all groundwater analyses from Pennsylvania as of September 2024\n\n\n\n\n\n\nSep 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroundwater Analyses from Southwestern Pennsylvania as of June 2022\n\n\na compiled hydrogeochemical dataset containing all groundwater analyses from Southwestern Pennsylvania as of June 2022\n\n\n\n\n\n\nJun 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStream Water Analyses from Northeastern U.S as of June 2020\n\n\na compiled hydrogeochemical dataset containing all stream water analyses from Northeastern U.S as of June 2020\n\n\n\n\n\n\nJun 10, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
