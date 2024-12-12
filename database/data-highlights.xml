@@ -6,21 +6,21 @@
       version="2.0">
 <channel>
 <title>Shale Network</title>
-<link>http://www.shalenetwork.org/database/data-highlights.html</link>
-<atom:link href="http://www.shalenetwork.org/database/data-highlights.xml" rel="self" type="application/rss+xml"/>
+<link>https://www.shalenetwork.org/database/data-highlights.html</link>
+<atom:link href="https://www.shalenetwork.org/database/data-highlights.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.39</generator>
 <lastBuildDate>Wed, 25 Sep 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Groundwater Analyses from Pennsylvania as of September 2024</title>
-  <link>http://www.shalenetwork.org/database/highlights/pa-groundwater-2024.html</link>
+  <link>https://www.shalenetwork.org/database/highlights/pa-groundwater-2024.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="http://www.shalenetwork.org/database/highlights/pa-groundwater-2024.jpg" class="img-fluid"></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="2d3e7ce9-8540-4a5f-9325-53a4ed774bed"></script><p><img src="https://www.shalenetwork.org/database/highlights/pa-groundwater-2024.jpg" class="img-fluid"></p>
 <p>This dataset is a subset of the Shale Network database and includes all groundwater samples from Pennsylvania in the Shale Network database as of September 2024. <a href="https://doi.org/10.1021/acs.est.4c03371" target="_blank">Click this link</a> to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this <a href="https://doi.org/10.26208/DT5Y-5B37" target="_blank">data DOI</a>.</p>
 
 
@@ -29,20 +29,20 @@
   <category>Hydrogeochemistry</category>
   <category>Groundwater</category>
   <category>Pennsylvania</category>
-  <guid>http://www.shalenetwork.org/database/highlights/pa-groundwater-2024.html</guid>
+  <guid>https://www.shalenetwork.org/database/highlights/pa-groundwater-2024.html</guid>
   <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="http://www.shalenetwork.org/database/highlights/pa-groundwater-2024.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.shalenetwork.org/database/highlights/pa-groundwater-2024.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Groundwater Analyses from Southwestern Pennsylvania as of June 2022</title>
-  <link>http://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.html</link>
+  <link>https://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="http://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.png" class="img-fluid"></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="2d3e7ce9-8540-4a5f-9325-53a4ed774bed"></script><p><img src="https://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.png" class="img-fluid"></p>
 <p>This dataset is a subset of the Shale Network database and includes all groundwater samples from Southwestern Pennsylvania in the Shale Network database as of June 2022. <a href="https://doi.org/10.1021/acs.est.2c00001" target="_blank">Click this link</a> to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this <a href="https://doi.org/10.26208/2nqe-wd53" target="_blank">data DOI</a>.</p>
 
 
@@ -51,20 +51,20 @@
   <category>Hydrogeochemistry</category>
   <category>Groundwater</category>
   <category>Southwestern Pennsylvania</category>
-  <guid>http://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.html</guid>
+  <guid>https://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.html</guid>
   <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
-  <media:content url="http://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.png" medium="image" type="image/png" height="79" width="144"/>
+  <media:content url="https://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.png" medium="image" type="image/png" height="79" width="144"/>
 </item>
 <item>
   <title>Stream Water Analyses from Northeastern U.S as of June 2020</title>
-  <link>http://www.shalenetwork.org/database/highlights/sn-stream-2020.html</link>
+  <link>https://www.shalenetwork.org/database/highlights/sn-stream-2020.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="http://www.shalenetwork.org/database/highlights/sn-stream-2020.png" class="img-fluid"></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="2d3e7ce9-8540-4a5f-9325-53a4ed774bed"></script><p><img src="https://www.shalenetwork.org/database/highlights/sn-stream-2020.png" class="img-fluid"></p>
 <p>This dataset is a subset of the Shale Network database and includes all stream water samples from Northeastern U.S in the Shale Network database as of June 2020. <a href="https://doi.org/10.1016/j.scitotenv.2020.140105" target="_blank">Click this link</a> to access the dataset (as Appendix A) and the corresponding peer-reviewed article that interprets the dataset.</p>
 
 
@@ -74,20 +74,20 @@
   <category>Hydrogeochemistry</category>
   <category>Surface Water</category>
   <category>Northeastern U.S</category>
-  <guid>http://www.shalenetwork.org/database/highlights/sn-stream-2020.html</guid>
+  <guid>https://www.shalenetwork.org/database/highlights/sn-stream-2020.html</guid>
   <pubDate>Wed, 10 Jun 2020 00:00:00 GMT</pubDate>
-  <media:content url="http://www.shalenetwork.org/database/highlights/sn-stream-2020.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://www.shalenetwork.org/database/highlights/sn-stream-2020.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Stray Gas in Sugar Run Lycoming County</title>
-  <link>http://www.shalenetwork.org/database/highlights/sugar-run-lycoming.html</link>
+  <link>https://www.shalenetwork.org/database/highlights/sugar-run-lycoming.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="http://www.shalenetwork.org/database/highlights/Sugar-Run.png" class="img-fluid"></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="2d3e7ce9-8540-4a5f-9325-53a4ed774bed"></script><p><img src="https://www.shalenetwork.org/database/highlights/Sugar-Run.png" class="img-fluid"></p>
 <p>The Shale Network Team was involved in measuring methane in Sugar Run Lycoming County. <a href="https://doi.org/10.1073/pnas.1809013115" target="_blank">Click this link</a> to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this <a href="https://doi.org/10.18113/D35M2X" target="_blank">data DOI</a>.</p>
 
 
@@ -98,20 +98,20 @@
   <category>Surface Water</category>
   <category>Groundwater</category>
   <category>Lycoming County</category>
-  <guid>http://www.shalenetwork.org/database/highlights/sugar-run-lycoming.html</guid>
+  <guid>https://www.shalenetwork.org/database/highlights/sugar-run-lycoming.html</guid>
   <pubDate>Mon, 19 Nov 2018 00:00:00 GMT</pubDate>
-  <media:content url="http://www.shalenetwork.org/database/highlights/Lycoming-County.png" medium="image" type="image/png" height="91" width="144"/>
+  <media:content url="https://www.shalenetwork.org/database/highlights/Lycoming-County.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 <item>
   <title>Groundwater Analyses from Bradford County in Pennsylvania as of May 2018</title>
-  <link>http://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.html</link>
+  <link>https://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p><img src="http://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.jpg" class="img-fluid"></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="2d3e7ce9-8540-4a5f-9325-53a4ed774bed"></script><p><img src="https://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.jpg" class="img-fluid"></p>
 <p>This dataset is a subset of the Shale Network database and includes all groundwater samples from Bradford County in Pennsylvania in the Shale Network database as of May 2018. <a href="https://doi.org/10.1021/acs.est.8b01123" target="_blank">Click this link</a> to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this <a href="https://doi.org/10.26208/rj0h-qf52" target="_blank">data DOI</a>.</p>
 
 
@@ -120,9 +120,9 @@
   <category>Hydrogeochemistry</category>
   <category>Groundwater</category>
   <category>Bradford County</category>
-  <guid>http://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.html</guid>
+  <guid>https://www.shalenetwork.org/database/highlights/swpa-groundwater-2022.html</guid>
   <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
-  <media:content url="http://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.shalenetwork.org/database/highlights/bradford-co-groundwater-2018.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
