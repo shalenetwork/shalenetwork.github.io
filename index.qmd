@@ -44,7 +44,7 @@ listing:
 
 ---
 
-## Status of the Shale Network Database
+## [Status of the Shale Network Database](database/data-overview.qmd){target=_blank}
 ```{=html}
 <table cellpadding=10px cellspacing="0">
   <tr valign="center" style="font-size:24px; font-weight:bold">

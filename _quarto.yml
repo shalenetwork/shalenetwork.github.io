@@ -18,7 +18,7 @@ editor:
 website:
   title: "Shale Network"
   page-navigation: false
-  site-url: "http://www.shalenetwork.org"
+  site-url: "https://www.shalenetwork.org"
   repo-url: "https://github.com/shalenetwork/shalenetwork.github.io"
   favicon: "assets/artworks/sn-logo-notext.png"
   twitter-card: true
@@ -27,8 +27,8 @@ website:
     type: overlay
 
   # Add tracking id to track website traffic via umami
-  #body-header: |
-    #<script defer src="https://cloud.umami.is/script.js" #data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+  body-header: |
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="2d3e7ce9-8540-4a5f-9325-53a4ed774bed"></script>
 
   navbar:
     search: true
