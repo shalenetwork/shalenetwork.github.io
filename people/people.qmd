@@ -1,6 +1,6 @@
 ---
 title: "Meet the Community"
-subtitle: "Shale Network is a global collaboration involving a consortium of researchers and institutions."
+subtitle: "Shale Network is a global collaboration involving a consortium of Energy-Water researchers and institutions."
 html-table-processing: none
 page-layout: full
 sidebar: false
