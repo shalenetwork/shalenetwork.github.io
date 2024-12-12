@@ -10,7 +10,7 @@
 <atom:link href="http://www.shalenetwork.org/education/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 11 Dec 2024 15:08:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Dec 2024 16:30:38 GMT</lastBuildDate>
 <item>
   <title>Environmental Issues Related to Brine Disposal from Hydrocarbon Development</title>
   <link>http://www.shalenetwork.org/education/env-brine.html</link>
@@ -47,7 +47,7 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>http://www.shalenetwork.org/education/env-brine.html</guid>
-  <pubDate>Wed, 11 Dec 2024 15:08:57 GMT</pubDate>
+  <pubDate>Thu, 12 Dec 2024 16:30:38 GMT</pubDate>
   <media:content url="http://www.shalenetwork.org/education/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -81,7 +81,7 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>http://www.shalenetwork.org/education/env-methane.html</guid>
-  <pubDate>Wed, 11 Dec 2024 15:08:57 GMT</pubDate>
+  <pubDate>Thu, 12 Dec 2024 16:30:38 GMT</pubDate>
   <media:content url="http://www.shalenetwork.org/education/stream-methane.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -125,7 +125,7 @@
   <category>Data Sciences</category>
   <category>CUAHSI</category>
   <guid>http://www.shalenetwork.org/education/hydrolearn-ds-ees.html</guid>
-  <pubDate>Wed, 11 Dec 2024 15:08:57 GMT</pubDate>
+  <pubDate>Thu, 12 Dec 2024 16:30:38 GMT</pubDate>
   <media:content url="http://www.shalenetwork.org/education/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 </channel>
