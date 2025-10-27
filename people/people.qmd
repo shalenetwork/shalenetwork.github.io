@@ -52,6 +52,20 @@ sidebar: false
     </td>
   </tr>
   <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="portraits/Sam_Shaheen.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Sam Shaheen<BR>
+        NSF EAR Postdoctoral Fellow<BR>
+        University of Minnesota<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Data Wrangler
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
     <td style="width:200px"><a href="url"><img src="portraits/Nick_Su.jpg" align="left" height="150px" width="150px"></a>
     </td>
     <td>
