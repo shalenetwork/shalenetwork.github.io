@@ -9,12 +9,13 @@
 <link>https://www.shalenetwork.org/education/</link>
 <atom:link href="https://www.shalenetwork.org/education/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 12 Dec 2024 19:13:58 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 27 Oct 2025 23:07:05 GMT</lastBuildDate>
 <item>
   <title>Environmental Issues Related to Brine Disposal from Hydrocarbon Development</title>
   <link>https://www.shalenetwork.org/education/env-brine.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -47,13 +48,14 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>https://www.shalenetwork.org/education/env-brine.html</guid>
-  <pubDate>Thu, 12 Dec 2024 19:13:58 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 23:07:05 GMT</pubDate>
   <media:content url="https://www.shalenetwork.org/education/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
   <title>Using Methane Concentrations in Streams to Investigate for Potential Leakage of Oil and Gas Wells in Pennsylvania</title>
   <link>https://www.shalenetwork.org/education/env-methane.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -81,13 +83,14 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>https://www.shalenetwork.org/education/env-methane.html</guid>
-  <pubDate>Thu, 12 Dec 2024 19:13:58 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 23:07:05 GMT</pubDate>
   <media:content url="https://www.shalenetwork.org/education/stream-methane.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Data Science in Earth and Environmental Sciences</title>
   <link>https://www.shalenetwork.org/education/hydrolearn-ds-ees.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -125,7 +128,7 @@
   <category>Data Sciences</category>
   <category>CUAHSI</category>
   <guid>https://www.shalenetwork.org/education/hydrolearn-ds-ees.html</guid>
-  <pubDate>Thu, 12 Dec 2024 19:13:58 GMT</pubDate>
+  <pubDate>Mon, 27 Oct 2025 23:07:05 GMT</pubDate>
   <media:content url="https://www.shalenetwork.org/education/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 </channel>
