@@ -3,11 +3,26 @@ title: "Get Involved"
 page-layout: full
 sidebar: false
 toc: false
-title-block-banner: true
 ---
 
-We are excited about the diverse analyses included in the compiled Shale Network database and are delighted by your interest in participating. We warmly welcome anyone passionate about energy-water interactions and eager to investigate questions related to the impacts of hydrocarbon extraction within a collaborative group setting to join the project.
+## Share water data
 
-If you would like to submit a database or begin working with us, please fill out the quick data volunteer form.
+If you hold water-quality observations from a region of oil and gas development, start with our [contribution guidance](database/contribute-data.qmd). A description of the area, measurements, sampling period, and sharing permissions will help the team understand the dataset.
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=AqR4Qp4auU6EFP-1Wl_PHqeugXhq_MJAqTX6weqo38lUNEhKVTI0SlRLNUQ0RjIzOEg1VVYwOTgwTy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+## Use data in research or teaching
+
+Browse [published datasets and studies](database/data-highlights.qmd) or [teaching resources](education/index.qmd). Contact the team if you need help identifying a suitable dataset or want to discuss a research or classroom use.
+
+## Help organize records
+
+If you are interested in contributing time to data organization, tell us about your experience with water data, laboratory reports, spreadsheets, or scientific documentation. The team can discuss whether there is a suitable task.
+
+## Contact
+
+[Email Tao Wen](mailto:twen08@syr.edu) or [open the interest form](https://forms.office.com/Pages/ResponsePage.aspx?id=AqR4Qp4auU6EFP-1Wl_PHqeugXhq_MJAqTX6weqo38lUNEhKVTI0SlRLNUQ0RjIzOEg1VVYwOTgwTy4u).
+
+Please use the form for an initial description. Do not include confidential reports, personal information, or protected site locations; discuss an appropriate transfer route with the team first.
+
+<iframe title="Shale Network participation and data contribution interest form" loading="lazy" width="100%" height="600" src="https://forms.office.com/Pages/ResponsePage.aspx?id=AqR4Qp4auU6EFP-1Wl_PHqeugXhq_MJAqTX6weqo38lUNEhKVTI0SlRLNUQ0RjIzOEg1VVYwOTgwTy4u&amp;embed=true" style="border: 0; max-width: 100%;" allowfullscreen></iframe>
+
+If the embedded form does not load, use the direct link or email above.

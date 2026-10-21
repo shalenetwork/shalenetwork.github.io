@@ -2,12 +2,16 @@
 title: "Conference Takes Aim At State’s Orphan Well Problem"
 date: "October 6, 2016"
 image: Conference-Takes-Aim-At-States-Orphan-Well-Problem/image.jpg
-categories: [News, Citizen Science, Community Engagement]
+image-alt: "A group walking beside woods during an outdoor discussion"
+categories: [Community]
 authors: 
   - name: Shale Network Team
+description: "An archival account of a conference on locating and assessing orphaned and abandoned wells."
 ---
 
-![](Conference-Takes-Aim-At-States-Orphan-Well-Problem/image.jpg)
+*News archive. Reporting, affiliations, and program descriptions reflect the date shown above.*
+
+![A group walking beside woods during an outdoor discussion](Conference-Takes-Aim-At-States-Orphan-Well-Problem/image.jpg){fig-alt="A group walking beside woods during an outdoor discussion"}
 
 More than 150 years after the first commercial oil well was drilled in Pennsylvania, decades of energy exploration have resulted in hundreds of thousands of abandoned, lost and forgotten oil and gas wells scattered across the state.
 

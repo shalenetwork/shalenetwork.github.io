@@ -1,9 +1,28 @@
 ---
-title: "Data Use and Embargo Policy"
+title: "Data Use and Contribution Guidance"
 page-layout: full
 sidebar: false
 toc: false
-title-block-banner: true
 ---
 
-This page is under construction. Stay tuned.
+## Cite the data you use
+
+Follow the citation instructions and license or reuse terms attached to each repository record. Cite the specific dataset version or DOI, its creators, and any associated study requested by the provider. When reporting an analysis, record the download date and describe the subset and processing steps used.
+
+Terms can differ among datasets. Availability through this website does not replace a source provider's terms or grant permission for uses outside them. If the terms are missing or unclear, contact [Tao Wen](mailto:twen08@syr.edu) before redistributing the data.
+
+## Discuss sensitive or embargoed data before sending files
+
+Contact the project team to discuss ownership, permission to share, intended release timing, and any restrictions before transferring unpublished or sensitive records. Do not submit confidential reports, personal information, or precise locations that require protection through the public interest form.
+
+An embargo or restricted-access arrangement must be agreed with the project team and data provider before transfer. This page does not establish an automatic embargo period or promise a particular storage or access arrangement.
+
+## Report a correction
+
+Email [Tao Wen](mailto:twen08@syr.edu) with the dataset DOI or source, the affected record or field, and the evidence supporting a correction. If the evidence contains sensitive information, first request an appropriate way to share it.
+
+Please distinguish a transcription error from a proposed reinterpretation. Retaining the original source and documenting a correction helps others understand how a record changed.
+
+## Interpret within the dataset's limits
+
+Check sampling coverage, methods, units, detection limits, and qualifiers before combining records. Inclusion in Shale Network is not a certification that a result is suitable for every research, regulatory, or health-related use. The associated study and source documentation provide context for interpretation.

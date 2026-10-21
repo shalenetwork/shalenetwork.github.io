@@ -1,18 +1,22 @@
 ---
-title: "Groundwater Analyses from Pennsylvania as of September 2024"
-description: |
-  a compiled hydrogeochemical dataset containing all groundwater analyses from Pennsylvania as of September 2024
-date: "September 25, 2024"
-categories: [Hydrogeochemistry, Groundwater, Pennsylvania]
+title: "Pennsylvania Groundwater: September 2024 Compilation"
+description: "A Shale Network subset used to examine groundwater salinity in Pennsylvania's Marcellus Shale region."
+date: "2024-09-25"
+categories: [Groundwater, Pennsylvania]
 image: pa-groundwater-2024.jpg
 page-layout: full
-toc: true
-freeze: auto
-title-block-banner: true
+toc: false
 sidebar: false
 ---
 
-![](pa-groundwater-2024.jpg)
+This groundwater compilation is the Shale Network subset associated with [Shaheen and colleagues' 2024 study of regional salinization](https://doi.org/10.1021/acs.est.4c03371). It is available through [Penn State Data Commons](https://doi.org/10.26208/DT5Y-5B37).
 
-This dataset is a subset of the Shale Network database and includes all groundwater samples from Pennsylvania in the Shale Network database as of September 2024. [Click this link](https://doi.org/10.1021/acs.est.4c03371){target="_blank"} to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this [data DOI](https://doi.org/10.26208/DT5Y-5B37){target="_blank"}.
+The study examines groundwater chemistry in relation to oil and gas wells, wastewater impoundments, and documented regulatory violations. Its samples were predominantly collected between April 2008 and April 2020. **September 2024 identifies the compilation, not the sampling period.**
 
+This is a defined research dataset, not an inventory of every groundwater analysis in Pennsylvania. Consult the repository files and article for sampling coverage, analytes, methods, and interpretation.
+
+![Groundwater sampling locations across Pennsylvania's Marcellus Shale region, shown with unconventional oil and gas well density.](pa-groundwater-2024.jpg){fig-alt="Groundwater sampling locations across Pennsylvania's Marcellus Shale region, shown with unconventional oil and gas well density."}
+
+For methods and interpretation, see the associated [Shaheen et al. (2024) study](https://doi.org/10.1021/acs.est.4c03371).
+
+[Data-use guidance](../data-use-and-embargo-policy.qmd)

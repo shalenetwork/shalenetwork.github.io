@@ -2,12 +2,18 @@
 title: "Snapshot Day Brings Pennsylvania Water Quality Into Focus"
 date: "November 14, 2017"
 image: Snapshot-Day-Brings-Pennsylvania-Water-Quality-Into-Focus/image.jpg
-categories: [News, K-12 Outreach, Citizen Science, Community Engagement]
+image-alt: "A person in waders collecting a sample in a wooded stream"
+categories: [Community]
 authors: 
   - name: Matt Carroll
+description: "An archival account of volunteer stream sampling with researchers and Trout Unlimited."
 ---
 
-![](Snapshot-Day-Brings-Pennsylvania-Water-Quality-Into-Focus/image.jpg)
+*News archive. See the [Penn State News version](https://www.psu.edu/news/impact/story/snapshot-day-brings-pennsylvania-water-quality-focus); reporting and affiliations reflect the historical story.*
+
+![A person in waders collecting a sample in a wooded stream](Snapshot-Day-Brings-Pennsylvania-Water-Quality-Into-Focus/image.jpg){fig-alt="A person in waders collecting a sample in a wooded stream"}
+
+Photo: Matt Carroll / Penn State. See the linked original story for its image credit and license.
 
 SHEFFIELD, Pa. — Bill Eckert slipped into his hip waders and splashed through the small stream near his cabin in the Allegheny National Forest.
 

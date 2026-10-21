@@ -1,18 +1,24 @@
 ---
-title: "Stray Gas in Sugar Run Lycoming County"
-description: |
-  a compiled hydrogeochemical dataset covering both surface water and groundwater along Sugar Run in Lycoming County
-date: "November 19, 2018"
-categories: [Methane, Hydrogeochemistry, Surface Water, Groundwater, Lycoming County]
+title: "Sugar Run Study and Lycoming County Groundwater"
+description: "A methane investigation near Sugar Run and the Lycoming County groundwater dataset used for regional context."
+date: "2018-11-19"
+categories: [Methane, Groundwater, Lycoming County]
 image: Lycoming-County.png
 page-layout: full
-toc: true
-freeze: auto
-title-block-banner: true
+toc: false
 sidebar: false
 ---
 
-![](Sugar-Run.png)
+[Woda and colleagues (2018)](https://doi.org/10.1073/pnas.1809013115) investigated methane and associated geochemical changes near Sugar Run in Lycoming County, Pennsylvania. The study combines local observations with regional groundwater data to examine methane sources and migration.
 
-The Shale Network Team was involved in measuring methane in Sugar Run Lycoming County. [Click this link](https://doi.org/10.1073/pnas.1809013115){target="_blank"} to access the corresponding peer-reviewed article that interprets the dataset. In addition, the dataset can be downloaded via this [data DOI](https://doi.org/10.18113/D35M2X){target="_blank"}.
+## Download the groundwater compilation
 
+[Lycoming County Groundwater as of October 2018](https://doi.org/10.18113/D35M2X) is a groundwater subset of Shale Network published through Penn State Data Commons. It provides regional context for the study. The linked repository record describes groundwater; it should not be read as a download of all the study's stream measurements.
+
+For the broader investigation, including Sugar Run observations and supporting methods, use the [article and supplementary files](https://pmc.ncbi.nlm.nih.gov/articles/PMC6298102/). October 2018 identifies the groundwater compilation, not the dates of every sample.
+
+![Map of sampling locations along Sugar Run and its tributaries in Lycoming County, Pennsylvania.](Sugar-Run.png){fig-alt="Map of sampling locations along Sugar Run and its tributaries in Lycoming County, Pennsylvania."}
+
+Sugar Run study-area map. See [Woda et al. (2018)](https://doi.org/10.1073/pnas.1809013115) for the investigation's methods and interpretation.
+
+[Data-use guidance](../data-use-and-embargo-policy.qmd)

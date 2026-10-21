@@ -1,29 +1,28 @@
 ---
-title: "Shale Network Overview"
-subtitle: "A Network of Energy-Water Researchers"
+title: "About Shale Network"
+subtitle: "Water data, research, and community learning"
 page-layout: full
 sidebar: false
 toc: false
-title-block-banner: true
 ---
 
-## Why Shale Network?
+Shale Network brings together water-quality observations from community monitoring groups, researchers, government agencies, and other data providers. The project organizes measurements from regions of oil and gas development so they can be found, cited, and used in research and teaching.
 
-The Shale Network project (“Shale Network”) revolves around a relational database containing water resource information from energy production regions. However, the Shale Network is much more than just a database—it is an integrated system comprising a database, a software ecosystem, and a thriving community.
+Our published datasets focus on Pennsylvania and the northeastern United States. They bring together observations collected for different purposes, with different sampling designs and analytical methods. That context matters when comparing sites or interpreting changes in water quality.
 
-## Our Mission
+## What you can find here
 
-Our mission is to:
+- **Water data:** [published datasets and database access](../database/data-access.qmd), including groundwater, stream water, and waters associated with hydrocarbon production.
+- **Research:** [studies using Shale Network data](../database/data-highlights.qmd) to examine methane, salinity, and other water-quality questions.
+- **Teaching:** [activities and course materials](../education/index.qmd) that use environmental observations to teach data analysis and interpretation.
+- **Community history:** [workshop records and project news](../events/index.qmd) documenting exchanges among researchers, monitoring groups, agencies, and other participants.
 
--   Identify groups that are collecting water data in the region of hydrocarbon extraction from shales and other target formations and create a sustainable network among these groups by arranging and helping to organize their data and generate opportunities to discuss and analyze the data
--   Work with the Consortium of Universities for the Advancement of Hydrologic Sciences, Inc. (CUAHSI) to organize a water database that can be used to establish background concentrations and to assess impacts across hydrocarbon extraction regions
--   Train students in database development and use for betterment of communities impacted by hydrocarbon extraction
--   Facilitate community groups in organizing, collecting, and interpreting water data
--   Evaluate hydrogeochemical data using geographic information systems (GIS) that incorporate population and economic data in order to evaluate the potential for public health risk factors
+## How we work with data
 
-## Our Vision
+The project organizes laboratory-report records in a structured input template. Its data-entry rules preserve the reported analytical method, use controlled variable names where available, and retain source information. A similar method is not a substitute for the method actually reported by a laboratory.
 
-The Shale Network will create a central and accessible repository for geochemistry and hydrology data collected by watershed groups, government agencies, industry stakeholders, and universities working together to document the natural variability and potential environmental impacts of hydrocarbon extraction activities.
+Read [how data are prepared and assessed](../database/data-overview.qmd) before combining records. A database entry does not by itself establish the cause of a water-quality observation or the suitability of a measurement for a particular analysis.
 
+## Work with us
 
-
+To discuss a dataset, a teaching use, or a research question, contact [Tao Wen](mailto:twen08@syr.edu). See [Get Involved](../get-involved.qmd) for ways to contribute.

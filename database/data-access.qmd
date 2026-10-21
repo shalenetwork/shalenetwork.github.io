@@ -1,89 +1,42 @@
 ---
-title: "Data Access"
+title: "Find and Download Data"
 page-layout: full
 sidebar: false
 toc: false
-title-block-banner: true
 ---
 
-## Example Analytes
+Start with a published dataset when you need a citable version for analysis. Each repository record provides its own description, files, and citation information. Check the sampling dates and coverage in the files; a release date is not a sampling date.
 
-This is a **_partial list_** of analytes that are included in ShaleNetwork Database. Not all sites provide data for all analytes.
+## Published datasets
 
-**Common water quality measurements:**
+::: {.table-responsive role="region" aria-label="Published datasets" tabindex="0"}
 
--   pH
--   Na
--   K
--   Mg
--   Ca
--   Sulfate
--   Chloride
--   Bromide
--   NH4
--   Nitrate
--   Nitrite
--   Total N
--   Acidity
--   Alkalinity
--   BOD
--   COD
--   Hardness
--   TDS
+| Dataset | Version or scope | Repository record |
+|---|---|---|
+| Database snapshot | Copy of the Shale Network database as of June 17, 2022 | [Penn State Data Commons](https://doi.org/10.26208/Z1HH-BX03) |
+| Pennsylvania groundwater | September 2024 compilation used in the regional salinization study | [Penn State Data Commons](https://doi.org/10.26208/DT5Y-5B37) |
+| Southwestern Pennsylvania groundwater | Beaver, Washington, and Greene counties; 2022 study dataset | [Penn State Data Commons](https://doi.org/10.26208/2NQE-WD53) |
+| Bradford County groundwater | May 2018 compilation | [Penn State Data Commons](https://doi.org/10.26208/RJ0H-QF52) |
+| Lycoming County groundwater | October 2018 compilation used in the Sugar Run study | [Penn State Data Commons](https://doi.org/10.18113/D35M2X) |
+| Northeastern U.S. stream chemistry | Dataset accompanying the 2020 stream methane study | [Article and supplementary data](https://doi.org/10.1016/j.scitotenv.2020.140105) |
 
-**Specific conductance, TSS Trace elements:**
+:::
 
--   Al
--   As
--   Ba
--   Be
--   B
--   Cd
--   Cr
--   Co
--   Cu
--   Fe
--   Pb
--   Li
--   Mg
--   Mn
--   Hg
--   Mo
--   Ni
--   Pb
--   Se
--   Ag
--   Sr
--   Th
--   U
--   Zn
+The June 2022 snapshot is a dated archive, not a representation of the database totals reported in October 2026. For a more recent extract or help selecting a dataset, contact [Tao Wen](mailto:twen08@syr.edu).
 
-**Naturally occurring radioactive material measurements:**
+[Dataset highlights](data-highlights.qmd) explain the associated studies and their scope.
 
--   Gross alpha
--   Gross beta
--   Ra-226
--   Ra-228
+## Search across sites and measurements
 
-**Organic constituents:**
+[CUAHSI HydroClient](https://data.cuahsi.org/) is another route for discovering hydrologic observations. Use the [Shale Network database record](https://doi.org/10.4211/his-data-shalenetwork) to identify the collection. If a search or download is unavailable, use a published dataset above or contact the project team.
 
--   Acetophenone
--   Benzene
--   Bis(2-ethylhexyl) phthalate
--   Ethylbenzene
--   Ethylene glycol
--   Methanol
--   Methylene blue active substances
--   Napthalene
--   Oil and grease
--   Phenolics
--   Toluene
--   Xylenes
+## Measurements represented
 
-## Data Access
+Available analytes differ among sites and datasets. Examples include:
 
-There are multiple ways to access the data included in the Shale Network Database:
+- **General water chemistry:** pH, specific conductance, alkalinity, acidity, hardness, total dissolved solids, and suspended solids.
+- **Major ions and nutrients:** sodium, potassium, calcium, magnesium, chloride, bromide, sulfate, ammonium, nitrate, and nitrite.
+- **Trace constituents:** arsenic, barium, iron, manganese, lead, strontium, and other elements.
+- **Gases, organic compounds, and radioactivity:** methane, selected organic compounds, gross alpha and beta measurements, and radium isotopes.
 
--   CUAHSI HydroClient website: [https://data.cuahsi.org/](https://data.cuahsi.org/){target="_blank"}
--   Individual datasets are published and interpreted in peer-reviewed articles. These datasets can be accessed via the data DOI that is included in the corresponding article. These datasets are all hosted on the [Penn State DataCommons](https://www.datacommons.psu.edu/){target="_blank"} and/or [CUAHSI HydroShare](https://www.hydroshare.org/){target="_blank"}.
--   Following each major data upload, the Shale Network team will harvest the entire database and publish a snapshot on CUAHSI HydroShare. To request access, you may email [Dr. Tao Wen](mailto:twen08@syr.edu).
+Consult the downloaded metadata for the exact variable name, units, analytical method, and reporting qualifiers. Read the [data-use guidance](data-use-and-embargo-policy.qmd) before reuse.

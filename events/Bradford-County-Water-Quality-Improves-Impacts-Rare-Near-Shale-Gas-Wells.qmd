@@ -2,12 +2,18 @@
 title: "Bradford County Water Quality Improves; Impacts Rare Near Shale Gas Wells"
 date: "June 14, 2018"
 image: Bradford-County-Water-Quality-Improves-Impacts-Rare-Near-Shale-Gas-Wells/image.jpg
-categories: [News, Publication, Research Updates]
+image-alt: "Drilling rig and equipment on a well pad among wooded hills"
+categories: [Research]
 authors: 
   - name: Matt Carroll
+description: "A regional groundwater study illustrates the use of combined datasets to investigate water chemistry."
 ---
 
-![](Bradford-County-Water-Quality-Improves-Impacts-Rare-Near-Shale-Gas-Wells/image.jpg)
+*News archive. From [Penn State News](https://www.psu.edu/news/research/story/bradford-co-water-quality-improves-impacts-rare-near-shale-gas-wells); reporting and affiliations reflect the historical story.*
+
+![Drilling rig and equipment on a well pad among wooded hills](Bradford-County-Water-Quality-Improves-Impacts-Rare-Near-Shale-Gas-Wells/image.jpg){fig-alt="Drilling rig and equipment on a well pad among wooded hills"}
+
+Photo: Henry Wong, via Penn State News. All rights reserved.
 
 UNIVERSITY PARK, Pa. — A new study of groundwater in a rural Pennsylvania county shows only rare instances of possible gas contamination amid an overall trend of improving water quality despite heavy Marcellus Shale development.
 
@@ -21,4 +27,4 @@ The team recently reported their findings in the journal Environmental Science &
 
 "Unlike previous studies, our findings show that groundwater quality might even be improving in an area heavily exploited for shale gas — northeastern Bradford," said Tao Wen, a post-doctoral scholar in Penn State's Earth and Environmental Systems Institute and lead author on the paper.
 
-Find more details on the [PSU News](http://news.psu.edu/story/524986/2018/06/12/research/bradford-co-water-quality-improves-impacts-rare-near-shale-gas){target="_blank"}
+Find more details on the [PSU News](https://www.psu.edu/news/research/story/bradford-co-water-quality-improves-impacts-rare-near-shale-gas-wells){target="_blank"}

@@ -2,18 +2,24 @@
 title: "Students See Green Mock Spill Illustrates Potential Impact Of Wastewater Leak"
 date: "April 25, 2018"
 image: Students-See-Green-Mock-Spill-Illustrates-Potential-Impact-Of-Wastewater-Leak/image.jpg
-categories: [News, K-12 Outreach, Citizen Science, Community Engagement]
+image-alt: "Bright green tracer dye moving through a small stream"
+categories: [Education]
 authors: 
   - name: Matt Carroll
+description: "A dye demonstration helped students examine how a spill could travel through a stream."
 ---
 
-![](Students-See-Green-Mock-Spill-Illustrates-Potential-Impact-Of-Wastewater-Leak/image.jpg)
+*News archive. From [Penn State News](https://www.psu.edu/news/impact/story/students-see-green-mock-spill-illustrates-potential-impact-wastewater-leak); reporting and affiliations reflect the historical story.*
+
+![Bright green tracer dye moving through a small stream](Students-See-Green-Mock-Spill-Illustrates-Potential-Impact-Of-Wastewater-Leak/image.jpg){fig-alt="Bright green tracer dye moving through a small stream"}
+
+Photo: Matt Carroll / Penn State. See the linked original story for its image credit and license.
 
 SNOW SHOE TOWNSHIP, Pa. — Bright green water swirled around Mariah Airey’s boots as it made its way into Black Moshannon Creek.
 
 A freshman at State College Area High School, Airey watched as green dye trickled down a tributary, mixed with the clear water in the creek and then rushed downstream.
 
-A group of State High students participated in a mock spill event last week simulating what might happen if a contaminate spill reached the stream. 
+A group of State High students participated in a mock spill event last week simulating what might happen if a contaminant spill reached the stream. 
 
 “When it reached Black Mo, it surprised me how far it went,” Airey said. “I thought my eyes were deceiving me.”
 
@@ -23,4 +29,4 @@ Penn State researchers and Pennsylvania Department of Environmental Protection s
 
 “There are a series of wells up on the hill, and trucks carry brine from the production of shale gas out of this watershed to treatment facilities,” said David Yoxtheimer, a research assistant in Penn State’s Earth and Environmental Systems Institute. “We set the stage that a brine truck rolled over and spilled some of its brine into the creek.”
 
-Read more about the project on the [PSU News](http://news.psu.edu/story/517637/2018/04/23/impact/students-see-green-mock-spill-illustrates-potential-impact-wastewater){target="_blank"}
+Read more about the project on the [PSU News](https://www.psu.edu/news/impact/story/students-see-green-mock-spill-illustrates-potential-impact-wastewater-leak){target="_blank"}

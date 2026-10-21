@@ -1,19 +1,66 @@
 ---
-title: "Education"
-subtitle: "We believe in open education and open science" 
-listing:
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  categories: numbered
-  sort-ui: false
-  filter-ui: false
-  table-hover: true
+title: "Teaching with Water Data"
+subtitle: "Activities and course materials for environmental data analysis"
 page-layout: full
-title-block-banner: true
 sidebar: false
+toc: false
 ---
+
+::: {.education-intro}
+::: {.education-copy}
+These resources use water observations and other environmental datasets to teach scientific interpretation.
+
+The SERC resources are short teaching activities; the HydroLearn resource is a longer course module. Follow each provider's instructions for access and classroom use.
+:::
+
+::: {.education-photo}
+![Students and researchers beside Black Moshannon Creek. [From the TeenShale Network archive (2016)](../events/State-College-High-School-Students-Testing-The-Waters-At-Black-Mo.qmd).](../events/State-College-High-School-Students-Testing-The-Waters-At-Black-Mo/image.jpg){fig-alt="Students watch a field instructor beside a stream, with field equipment and a laptop." width=480 height=270}
+:::
+:::
+
+::: {.education-resources}
+
+::: {.education-resource}
+## Brine disposal and water quality
+
+::: {.resource-meta}
+**Undergraduate hydrology**\
+2–3 hours · SERC
+:::
+
+Compare stream chemistry near brine-disposal locations and examine questions about wastewater disposal and seismicity. Created by Tao Wen.
+
+[Explore the brine activity](env-brine.qmd){.resource-link}
+:::
+
+::: {.education-resource}
+## Investigating methane in streams
+
+::: {.resource-meta}
+**Undergraduate hydrology**\
+About 2 hours · SERC
+:::
+
+Work through three hypothetical water-supply investigations using stream observations and oil and gas records. The activity asks students to consider different potential methane sources.
+
+[Explore the methane activity](env-methane.qmd){.resource-link}
+:::
+
+::: {.education-resource}
+## Data science in Earth and environmental sciences
+
+::: {.resource-meta}
+**R and Python**\
+About 30 hours · HydroLearn
+:::
+
+Practice programming and develop an environmental data-analysis workflow. Examples address wildfire and groundwater quality. Created by Tao Wen, Christina Bandaragoda, and Lucas Harris.
+
+[Course details and access requirements](hydrolearn-ds-ees.qmd){.resource-link}
+:::
+
+:::
+
+## Using these resources in a class
+
+Review the activities and check their external tools before teaching; data interfaces can change. For questions about Shale Network data or adapting an activity, contact [Tao Wen](mailto:twen08@syr.edu).

@@ -2,10 +2,14 @@
 title: "2013 Shale Network Workshop"
 date: "May 19, 2013"
 image: 2013-shale-network-workshop/image.jpg
-categories: [Workshop, Citizen Science, Community Engagement]
+image-alt: "Archive image: 2013 Shale Network Workshop"
+categories: [Workshop]
 authors: 
   - name: Shale Network Team
+description: "Agenda, presentations, and participant evaluations from the May 2013 workshop."
 ---
+
+*Workshop archive. The materials, affiliations, and software references below describe this dated event.*
 
 **Developing water monitoring data and a network to protect our water resources as we develop shale gas in the northeastern U.S.**
 
@@ -22,5 +26,5 @@ Participants were asked to complete a survey at the end of the workshop. A summa
 -   [Workshop Introduction and Closing Remarks](2013-shale-network-workshop/Workshop_Intro_and_ClosingRemarks.pptx)
 -   [HydroDesktop Demonstration](2013-shale-network-workshop/HydroDesktopDemo-2013.pdf)
 -   [Surface Water Transport Contaminant Modeling and Water Quality Sensor Density, Ten Mile Creek](2013-shale-network-workshop/TenmileCreek_April22-2013-Final.pptx)
--   [Summary of Participant Evaluations of 2013 Workshop](2013-shale-network-workshop/files/WorkshopEvalSummary.docx)
+-   [Summary of Participant Evaluations of 2013 Workshop](2013-shale-network-workshop/WorkshopEvalSummary.docx)
 -   [Presentation by environmental science students from Mountain Ridge High School, Maryland](2013-shale-network-workshop/Mountain-Ridge-Methods-and-Data.pdf)

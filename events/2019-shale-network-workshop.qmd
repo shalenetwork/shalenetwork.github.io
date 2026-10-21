@@ -1,18 +1,21 @@
 ---
 title: "2019 Shale Network Workshop"
 date: "May 16, 2019"
-categories: [Workshop, Citizen Science, Community Engagement]
+categories: [Workshop]
 authors: 
   - name: Shale Network Team
+description: "Archived program and field-trip itinerary for Monitoring Communities and Their Environment."
 ---
+
+*Workshop archive. The materials, affiliations, and software references below describe this dated event.*
 
 **Monitoring Communities and Their Environment**
 
-The Shale Network will hold its eighth annual workshop at the Nittany Lion Inn in State College, Pa. 
+The eighth annual Shale Network workshop was scheduled for May 16–17, 2019, at the Nittany Lion Inn in State College, Pa. 
 
 **Dates:**
 
-May 16-17
+May 16–17, 2019
 
 **Location:**
 
@@ -20,13 +23,13 @@ The Nittany Lion Inn
 
 **About the Workshop**
 
-The workshop provides an opportunity for citizen scientists, researchers, government officials, energy company representatives, and environmental professionals to compare lessons learned about water and environmental issues within areas where shale energy development is occurring.
+The workshop was designed to provide an opportunity for citizen scientists, researchers, government officials, energy company representatives, and environmental professionals to compare lessons learned about water and environmental issues within areas where shale energy development is occurring.
 
-The 2019 workshop features a field trip to two shale energy-related sites that manage solid and liquid wastes derived from well drilling and oil and gas production. The first is a tour of the Eureka Resources Williamsport, Pa. facility, an oil and gas wastewater management plant. This facility is designed for the pretreatment, recycling and disposal of wastewater from natural gas drilling and production operations in the Marcellus and Utica Shales. The second is a tour of the Wayne Township Landfill in Clinton County, Pa. The landfill manages drilling cuttings and muds generated primarily from shale well drilling operations and uses some novel practices to minimize the industry’s environmental footprint. In addition, the facility hosts a compressed natural gas filling station for vehicles, including trash hauling vehicles. The tentative field trip schedule is as follows:
+The 2019 program included plans for a field trip to two shale energy-related sites that manage solid and liquid wastes derived from well drilling and oil and gas production. The first planned stop was a tour of the Eureka Resources Williamsport, Pa. facility, an oil and gas wastewater management plant. The program described this facility as designed for the pretreatment, recycling and disposal of wastewater from natural gas drilling and production operations in the Marcellus and Utica Shales. The second planned stop was a tour of the Wayne Township Landfill in Clinton County, Pa. The program described a landfill that manages drilling cuttings and muds generated primarily from shale well drilling operations and uses some novel practices to minimize the industry’s environmental footprint. In addition, the facility hosts a compressed natural gas filling station for vehicles, including trash hauling vehicles. The announced field-trip schedule was:
 
 <table><tbody><tr><td><p>9:30 a.m.</p></td><td><p>Meet in Nittany Lion Inn lobby</p></td></tr><tr><td><p>9:45 a.m.</p></td><td><p>Depart for Williamsport</p></td></tr><tr><td><p>11:00 a.m. - 12:00 p.m.</p></td><td><p>Tour Eureka Resources gas well wastewater treatment facility</p></td></tr><tr><td><p>12:00 p.m. - 1:00 p.m.</p></td><td><p>Bring your own lunch</p></td></tr><tr><td><p>1:00 p.m.</p></td><td><p>Depart for Wayne Township</p></td></tr><tr><td><p>1:30 - 3:30 p.m.</p></td><td><p>Tour Wayne Township Landfill</p></td></tr><tr><td><p>4:30 p.m.</p></td><td><p>Return to Nittany Lion Inn</p></td></tr></tbody></table>
 
-The Shale Network is a collaborative effort between Penn State, the University of Pittsburgh and the Consortium of Universities for the Advancement of Hydrologic Sciences Inc. (CUAHSI) to collect and analyze data on water quality in the Marcellus Shale drilling region. The Pennsylvania Department of Environmental Protection participates in organizing parts of the workshop. Oak Ridge Associated Universities (ORAU) also provides funding.
+The Shale Network is a collaborative effort between Penn State, the University of Pittsburgh and the Consortium of Universities for the Advancement of Hydrologic Sciences Inc. (CUAHSI) to collect and analyze data on water quality in the Marcellus Shale drilling region. The Pennsylvania Department of Environmental Protection participated in organizing parts of the workshop. Oak Ridge Associated Universities (ORAU) also provided funding.
 
 **Agenda**
 
@@ -34,6 +37,6 @@ The Shale Network is a collaborative effort between Penn State, the University o
 
 **Continuing Professional Education**
 
-Attendees can receive: 
+The workshop advertised: 
 
 -   Professional Development Hours for professional engineers, land surveyors and geologists

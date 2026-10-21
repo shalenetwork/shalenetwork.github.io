@@ -1,13 +1,55 @@
+name: Quarto Publish
+
 on:
   workflow_dispatch:
   push:
-    branches: main
+    branches: [main]
+  pull_request:
+    branches: [main]
 
-name: Quarto Publish
+permissions:
+  contents: read
+
+# Finish an active publication before starting another for the same branch.
+concurrency:
+  group: quarto-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  check:
+    name: Render and check website
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.5.49'
+
+      - name: Render website
+        run: quarto render
+
+      - name: Check internal links and assets
+        run: python3 scripts/check_site.py _site
+
+      - name: Save checked website for publication
+        if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+        uses: actions/upload-artifact@v4
+        with:
+          name: checked-site
+          path: _site/
+          include-hidden-files: true
+          retention-days: 1
+
+  publish:
+    name: Publish checked website
+    needs: check
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -16,10 +58,19 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.5.49'
 
-      - name: Render and Publish
+      - name: Restore checked website
+        uses: actions/download-artifact@v4
+        with:
+          name: checked-site
+          path: _site
+
+      - name: Publish without rendering again
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

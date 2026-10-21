@@ -1,10 +1,13 @@
 ---
 title: "2012 Shale Network Workshop"
 date: "April 23, 2012"
-categories: [Workshop, Citizen Science, Community Engagement]
+categories: [Workshop]
 authors: 
   - name: Shale Network Team
+description: "Workshop conclusions on data sharing, provenance, data gaps, and access, with an opening presentation and participant list."
 ---
+
+*Workshop archive. The materials, affiliations, and software references below describe this dated event.*
 
 **Introduction to the Shale Network database: encouraging data sharing and interaction and study around Marcellus water quality issues**
 
@@ -19,8 +22,8 @@ Workshop participants reached eight conclusions. First, we discovered that exten
 **Workshop Materials**
 
 -   [Opening presentation](2012-shale-network-workshop/ShaleNetwork_Workshop_April2012.pdf)
--   Surface water impacts presentation
--   Workshop agenda
+
+Also listed in the workshop record, without downloads: the surface water impacts presentation and workshop agenda.
 
 **2012 Shale Network Workshop Attendees**
 

@@ -1,21 +1,20 @@
 ---
-title: "Dataset Highlights"
-subtitle: "We believe in open education and open science" 
+title: "Research and Dataset Highlights"
+subtitle: "Published studies with data you can inspect and cite"
 listing:
   contents:
     - highlights/*.qmd
-  feed: true
+  type: default
   sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  categories: numbered
+  fields: [title, description]
+  categories: false
   sort-ui: false
   filter-ui: false
-  table-hover: true
 page-layout: full
-title-block-banner: true
 sidebar: false
+toc: false
 ---
+
+These studies use defined subsets of Shale Network data to investigate groundwater chemistry, methane, and the effects of hydrocarbon development. Each page links a publication with its data source and describes the geographic and temporal scope.
+
+The collections are not complete surveys of every water source in a region. The dates in dataset titles identify a compilation or release; consult the source files for sampling dates. For a whole-database archive, see [data access](data-access.qmd).

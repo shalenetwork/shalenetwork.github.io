@@ -3,11 +3,15 @@ project:
   output-dir: _site
   resources:
     - CNAME
+    - "!README.md"
+    - "!scripts/**"
   render: 
     - "*.qmd"
     - "*.ipynb"
     - "!_template.qmd"
     - "!_template.ipynb"
+    - "!README.md"
+    - "!scripts/**"
 
 execute: 
   freeze: auto
@@ -18,7 +22,7 @@ editor:
 website:
   title: "Shale Network"
   page-navigation: false
-  site-url: "https://www.shalenetwork.org"
+  site-url: "https://shalenetwork.org"
   repo-url: "https://github.com/shalenetwork/shalenetwork.github.io"
   favicon: "assets/artworks/sn-logo-notext.png"
   twitter-card: true
@@ -45,7 +49,7 @@ website:
       - href: education/index.qmd
         text: Education
       - href: events/index.qmd
-        text: News & Events
+        text: Workshop & News Archive
       - href: people/people.qmd
         text: People
 
@@ -70,7 +74,8 @@ website:
         - database/data-highlights.qmd
 
   page-footer: 
-    center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}
+    left: "© 2026 Shale Network"
+    center: "[Contact Tao Wen](mailto:twen08@syr.edu) · [Data use and attribution](/database/data-use-and-embargo-policy.qmd)"
     right:
       - icon: github
         href: https://github.com/shalenetwork/shalenetwork.github.io
@@ -84,8 +89,8 @@ format:
       dark: [simplex, assets/sass/theme-dark-custom.scss]
     toc: true
     toc-expand: 1
-    link-external-newwindow: true
-    smooth-scroll: true
+    link-external-newwindow: false
+    smooth-scroll: false
     title-block-banner: true
     code-line-numbers: true
     css: assets/css/styles.css

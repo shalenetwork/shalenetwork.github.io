@@ -2,14 +2,18 @@
 title: "New Technique Shows Shale Drilling Additives In Drinking Water Taps Near Leak"
 date: "June 2, 2015"
 image: New-Technique-Shows-Shale-Drilling-Additives-In-Drinking-Water-Taps-Near-Leak/image.jpg
-categories: [News, Publication, Research Updates]
+image-alt: "A large transparent container holding water with a layer of white foam"
+categories: [Research]
 authors: 
   - name: Shale Network Team
+description: "An archival account of a study of three Pennsylvania drinking-water supplies, with the paper and author FAQs."
 ---
 
-![](New-Technique-Shows-Shale-Drilling-Additives-In-Drinking-Water-Taps-Near-Leak/image.jpg)
+*News archive. Reporting, affiliations, and program descriptions reflect the date shown above.*
 
-Substances commonly used for drilling or extracting Marcellus shale gas foamed from the drinking water taps of three Pennsylvania homes near a reported well-pad leak, according an analysis from a team of scientists.
+![A large transparent container holding water with a layer of white foam](New-Technique-Shows-Shale-Drilling-Additives-In-Drinking-Water-Taps-Near-Leak/image.jpg){fig-alt="A large transparent container holding water with a layer of white foam"}
+
+Substances commonly used for drilling or extracting Marcellus shale gas foamed from the drinking water taps of three Pennsylvania homes near a reported well-pad leak, according to an analysis from a team of scientists.
 
 The researchers used a new analytical technique on samples from the homes and found a chemical compound, 2-BE, and an unidentified complex mixture of organic contaminants, both commonly seen in flowback water from Marcellus shale activity. The scientists recently published their findings in Proceedings of the National Academy of Sciences.
 
@@ -31,6 +35,6 @@ The homes were sold to the gas company as part of a legal settlement in 2012, bu
 
 The research was supported by funding from the National Science Foundation.
 
-To see the journal article, [click here](http://www.pnas.org/content/112/20/6325){target="_blank"} or visit the Resources tab of the Shale Network website. 
+Read the study: [Evaluating a groundwater supply contamination incident attributed to Marcellus Shale gas development](https://doi.org/10.1073/pnas.1420279112). 
 
-Several of the article's authors have answered some frequently asked questions, and that can be viewed by [clicking here](2015-shale-network-workshop/Frequently-Asked-Questions-about-Llewellyn-et-al-2015.pdf){target="_blank"} and downloading the PDF.
+[Frequently asked questions answered by the study authors](2015-shale-network-workshop/Frequently-Asked-Questions-about-Llewellyn-et-al-2015.pdf) (PDF).

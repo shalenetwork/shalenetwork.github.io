@@ -2,12 +2,16 @@
 title: "State College High School Students Testing The Waters At Black Mo"
 date: "October 4, 2016"
 image: State-College-High-School-Students-Testing-The-Waters-At-Black-Mo/image.jpg
-categories: [News, K-12 Outreach, Citizen Science, Community Engagement]
+image-alt: "A group gathered beside a stream with field equipment and a laptop"
+categories: [Education]
 authors: 
   - name: Centre Daily Times
+description: "Student monitoring at Black Moshannon Creek, with a link to the Centre Daily Times report."
 ---
 
-![](State-College-High-School-Students-Testing-The-Waters-At-Black-Mo/image.jpg)
+*News archive. Reporting, affiliations, and program descriptions reflect the date shown above.*
+
+![A group gathered beside a stream with field equipment and a laptop](State-College-High-School-Students-Testing-The-Waters-At-Black-Mo/image.jpg){fig-alt="A group gathered beside a stream with field equipment and a laptop"}
 
 If anything happens to the water in Black Moshannon Creek, a group of State College Area School District earth science students might just be the first to know.
 

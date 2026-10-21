@@ -1,10 +1,13 @@
 ---
 title: "Big Data Approach To Water Quality Applied At Shale Drilling Sites"
 date: "January 5, 2017"
-categories: [News, Publication, Research Updates]
+categories: [Research]
 authors: 
   - name: Matthew Carroll
+description: "Penn State reporting on a project to examine water-quality data with computational methods."
 ---
+
+*News archive. From [Penn State News](https://www.psu.edu/news/research/story/big-data-approach-water-quality-applied-shale-drilling-sites); reporting and affiliations reflect the historical story.*
 
 UNIVERSITY PARK, Pa. — A computer program is diving deep into water quality data from Pennsylvania, helping scientists detect potential environmental impacts of Marcellus Shale gas drilling.
 
@@ -18,4 +21,4 @@ Penn State geoscientists have studied methane concentrations around shale gas dr
 
 "It's always been frustrating to me because we get these water datasets that are sort of here, there and everywhere, and you can't put them together into a scientific explanation," said Susan Brantley, distinguished professor of geosciences and director of the Earth and Environmental Systems Institute, Penn State, and principal investigator on the project. "It's like a jigsaw puzzle with a lot of pieces missing. The story is still there, but you can't see it as a human being. I think it's possible the computer techniques that Jessie has can help us pull that story out and fill in some of the missing pieces."
 
-For more information on this project, visit [PSU News](http://news.psu.edu/story/440879/2016/12/07/research/big-data-approach-water-quality-applied-shale-drilling-sites){target="_blank"}
+For more information on this project, visit [PSU News](https://www.psu.edu/news/research/story/big-data-approach-water-quality-applied-shale-drilling-sites){target="_blank"}

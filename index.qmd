@@ -1,92 +1,95 @@
 ---
-title: "Shale Network"
-subtitle: "A Network of Energy-Water Researchers"
+title: ""
+pagetitle: "Shale Network"
+description: "Shale Network is expanding water-quality data coverage across the United States, with research and teaching resources for oil- and gas-producing regions."
 page-layout: full
 sidebar: false
 toc: false
-title-block-banner: true
-
+title-block-banner: false
 listing:
-  - id: events
-    contents: 
-    - "/events/*.qmd"
-    - "!events/index.qmd"
+  - id: selected-data
+    contents:
+      - database/highlights/pa-groundwater-2024.qmd
+      - database/highlights/southwestern-pennsylvania-groundwater-2022.qmd
+      - database/highlights/sn-stream-2020.qmd
     sort: "date desc"
-    type: grid
-    grid-item-border: true
-    grid-item-align: left
-    max-description-length: 175
-    date-format: medium
+    type: default
+    fields: [title, description, date]
+    date-format: "MMM YYYY"
     categories: false
-    image-placeholder: /assets/artworks/sn-logo.png
     sort-ui: false
     filter-ui: false
-    table-hover: true
-    max-items: 3
     feed: false
-
-  - id: data-highlights
-    contents: 
-    - "database/highlights/*.qmd"
-    sort: "date desc"
-    type: grid
-    grid-item-border: true
-    grid-item-align: left
-    max-description-length: 175
-    date-format: medium
-    categories: false
-    image-placeholder: /assets/artworks/sn-logo.png
-    sort-ui: false
-    filter-ui: false
-    table-hover: true
-    max-items: 3
-    feed: false
-
 ---
 
-## [Status of the Shale Network Database](database/data-overview.qmd){target=_blank}
-```{=html}
-<table cellpadding=10px cellspacing="0">
-  <tr valign="center" style="font-size:24px; font-weight:bold">
-    <td style="width:200px">
-      Sites
-    </td>
-    <td style="width:200px">
-      Data Values
-    </td>
-    <td style="width:200px">
-      Data Providers
-    </td>
-  </tr>
-  <tr valign="center" style="font-size:24px; font-weight:bold">
-    <td style="width:200px">
-      62,025
-    </td>
-    <td style="width:200px">
-      2,109,467
-    </td>
-    <td style="width:200px">
-      515
-    </td>
-  </tr>
-  <tr valign="center" style="font-weight:bold">
-    <td style="width:200px">
-    </td>
-    <td style="width:200px">
-      As of 12/10/2024
-    </td>
-    <td style="width:200px">
-    </td>
-  </tr>
-</table>
-```
+::: {.home-intro}
+::: {.intro-copy}
+[Water data · National expansion underway]{.eyebrow}
 
-## [News & Events](events/index.qmd)
+<h1 class="hero-title">Shale Network</h1>
 
-::: {#events}
+::: {.intro-lead}
+Building a national water-quality database for oil- and gas-producing regions.
 :::
 
-## [Dataset Highlights](database/data-highlights.qmd)
+Our data extend beyond Pennsylvania. We are broadening coverage across the United States, building on records from the northeastern U.S. Marcellus region.
 
-::: {#data-highlights}
+We bring together water-quality records from community groups, agencies, industry, and researchers to support research, teaching, and comparisons across places and dates.
+
+::: {.home-actions}
+[Access data](database/data-access.qmd){.primary-link}
+[Contribute data](database/contribute-data.qmd)
+[Teaching resources](education/index.qmd)
+:::
+:::
+
+::: {.intro-figure}
+[One regional example]{.eyebrow}
+
+![Map of Pennsylvania showing groundwater sample locations in red, the Marcellus Shale extent, and unconventional oil and gas well density.](database/highlights/pa-groundwater-2024.jpg){fig-alt="Pennsylvania groundwater sample locations, Marcellus Shale extent, and unconventional oil and gas well density."}
+
+[Pennsylvania groundwater dataset, September 2024](database/highlights/pa-groundwater-2024.qmd). This map shows one study, not the database’s full geographic coverage.
+:::
+:::
+
+::: {.database-status}
+## Database at a glance {.unlisted}
+
+```{=html}
+<dl class="statistics">
+  <div><dt>Sites</dt><dd>62,025</dd></div>
+  <div><dt>Data values</dt><dd>2,109,467</dd></div>
+  <div><dt>Data providers</dt><dd>515</dd></div>
+</dl>
+```
+
+[As of October 20, 2026.]{.statistics-date} Data values are individual analyte results, not independent water samples. Sampling dates, geographic coverage, and available measurements vary among datasets. [About the database](database/data-overview.qmd).
+:::
+
+::: {.home-columns}
+::: {}
+## Published datasets
+
+Explore selected releases and the studies that use them. Each dataset page links to its repository record and citation information.
+
+::: {#selected-data}
+:::
+
+[View all dataset highlights](database/data-highlights.qmd){.section-link}
+:::
+
+::: {.home-aside}
+## Working with water data
+
+### Research
+Groundwater and stream-water records support studies of methane, salinity, and water chemistry. [Explore published examples](database/data-highlights.qmd).
+
+### Teaching
+Use water chemistry to investigate methane sources and brine disposal, or practice data analysis in R and Python. [Find teaching materials](education/index.qmd).
+
+### Community
+The workshop archive brings together agendas, presentations, and discussions from researchers, agencies, industry, and community groups. [Browse workshop materials](events/index.qmd).
+
+[Meet the team](people/people.qmd){.section-link}
+:::
 :::

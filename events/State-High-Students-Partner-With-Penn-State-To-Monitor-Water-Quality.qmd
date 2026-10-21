@@ -2,14 +2,20 @@
 title: "State High Students Partner With Penn State To Monitor Water Quality"
 date: "June 23, 2015"
 image: State-High-Students-Partner-With-Penn-State-To-Monitor-Water-Quality/image.jpg
-categories: [News, K-12 Outreach, Citizen Science, Community Engagement]
+image-alt: "Three people examining a handheld instrument outdoors"
+categories: [Education]
 authors: 
   - name: Hannah Good
   - name: Emily Richmond
   - name: Valeria Soler Pelaez
+description: "Students describe field sampling and learning through TeenShale Network in 2015."
 ---
 
-![](State-High-Students-Partner-With-Penn-State-To-Monitor-Water-Quality/image.jpg)
+*News archive. See the [Penn State News version](https://www.psu.edu/news/research/story/state-high-students-partner-penn-state-monitor-water-quality); reporting and affiliations reflect the historical story.*
+
+![Three people examining a handheld instrument outdoors](State-High-Students-Partner-With-Penn-State-To-Monitor-Water-Quality/image.jpg){fig-alt="Three people examining a handheld instrument outdoors"}
+
+Photo: Penn State. See the linked Penn State story for its image credit and license.
 
 RUSH TOWNSHIP, Pa. -- The boots Maria Rodriguez-Hertz wore kept out the water but not the numbing cold from Black Moshannon Creek.
 
@@ -43,7 +49,7 @@ In the field, Nyblade and the other 10th-graders showed their classmates how to 
 
 The students also waded out into the water to use equipment called a Flow Tracker to measure the flow and depth of the creek and to collect samples to send back to Penn State for testing. Williams said they are the same types of experiments professional scientists do in the field.
 
-Student said testing and sampling in the field is much different than in the classroom, where experiments often have predictable answers.
+Students said testing and sampling in the field is much different than in the classroom, where experiments often have predictable answers.
 
 “In labs in class, everything is usually a lot more controlled,” Rodriguez-Hertz said. “There aren’t many variables, but here there are many variables that you have to think about.”
 

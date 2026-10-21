@@ -1,18 +1,20 @@
 ---
-title: "Stream Water Analyses from Northeastern U.S as of June 2020"
-description: |
-  a compiled hydrogeochemical dataset containing all stream water analyses from Northeastern U.S as of June 2020
-date: "June 10, 2020"
-categories: [Methane, Hydrogeochemistry, Surface Water, Northeastern U.S]
+title: "Stream Methane in the Northeastern United States: 2020 Study"
+description: "Stream observations from Pennsylvania, New York, and West Virginia used to investigate methane sources."
+date: "2020-06-10"
+categories: [Methane, Surface Water, Northeastern United States]
 image: sn-stream-2020.png
 page-layout: full
-toc: true
-freeze: auto
-title-block-banner: true
+toc: false
 sidebar: false
 ---
 
-![](sn-stream-2020.png)
+[Woda and colleagues' 2020 study](https://doi.org/10.1016/j.scitotenv.2020.140105) reports methane measurements from stream sites in Pennsylvania, New York, and West Virginia. It examines methane in areas with histories of oil, gas, and coal development.
 
-This dataset is a subset of the Shale Network database and includes all stream water samples from Northeastern U.S in the Shale Network database as of June 2020. [Click this link](https://doi.org/10.1016/j.scitotenv.2020.140105){target="_blank"} to access the dataset (as Appendix A) and the corresponding peer-reviewed article that interprets the dataset.
+The article's supplementary data provide the study dataset. This is a selected research collection, not a complete census of northeastern U.S. streams. The 2020 date refers to the study's publication; sampling dates and site selection are described in the article and supporting files.
 
+![Stream sampling sites in Pennsylvania and nearby areas of New York and West Virginia, with symbol size indicating mean methane concentration at each site.](sn-stream-2020.png){fig-alt="Stream sampling sites in Pennsylvania and nearby areas of New York and West Virginia, with symbol size indicating mean methane concentration at each site."}
+
+See [Woda et al. (2020)](https://doi.org/10.1016/j.scitotenv.2020.140105) for the sampling design and interpretation of the regional groups.
+
+[Data-use guidance](../data-use-and-embargo-policy.qmd)

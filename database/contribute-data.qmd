@@ -3,9 +3,25 @@ title: "Contribute Data"
 page-layout: full
 sidebar: false
 toc: false
-title-block-banner: true
 ---
 
-We are actively inputting data into the Shale Network database. We have input published data, new data, online data, and unpublished data. Shale Network is interested in data providers and volunteers that can collect their own water data and add this data to the Shale Network dataset. We seek datasets from community groups, researchers, government agencies, industry, and river commissions. If you would like to submit a database or begin working with us, please fill out the quick data volunteer form.
+Shale Network welcomes conversations with community monitoring groups, researchers, government agencies, industry, and river commissions that hold water-quality observations from regions of oil and gas development.
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=AqR4Qp4auU6EFP-1Wl_PHqeugXhq_MJAqTX6weqo38lUNEhKVTI0SlRLNUQ0RjIzOEg1VVYwOTgwTy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+## Tell us about the dataset
+
+A short description is enough to begin. Please include:
+
+- the geographic area, water types, sampling dates, and measurements;
+- the available file formats and accompanying laboratory or field documentation;
+- who collected and owns the data, and whether sharing permission is established;
+- any access restrictions, embargo needs, or sensitive locations.
+
+The team will discuss the data and an appropriate transfer route with you. Please do not send confidential reports, personal information, or protected site coordinates through the form. See [data-use and contribution guidance](data-use-and-embargo-policy.qmd).
+
+## Contact the team
+
+[Email Tao Wen](mailto:twen08@syr.edu) or [open the interest form in a separate page](https://forms.office.com/Pages/ResponsePage.aspx?id=AqR4Qp4auU6EFP-1Wl_PHqeugXhq_MJAqTX6weqo38lUNEhKVTI0SlRLNUQ0RjIzOEg1VVYwOTgwTy4u).
+
+<iframe title="Shale Network data contribution and volunteer interest form" loading="lazy" width="100%" height="600" src="https://forms.office.com/Pages/ResponsePage.aspx?id=AqR4Qp4auU6EFP-1Wl_PHqeugXhq_MJAqTX6weqo38lUNEhKVTI0SlRLNUQ0RjIzOEg1VVYwOTgwTy4u&amp;embed=true" style="border: 0; max-width: 100%;" allowfullscreen></iframe>
+
+If the embedded form does not load, use the direct link or email above.

@@ -2,16 +2,20 @@
 title: "TeenShale Network Gears Up For Another Year"
 date: "October 20, 2017"
 image: TeenShale-Network-Gears-Up-For-Another-Year/image.jpg
-categories: [News, K-12 Outreach, Citizen Science, Community Engagement]
+image-alt: "A student holds a sampling container while a group works beside a stream"
+categories: [Education]
 authors: 
   - name: Shale Network Team
+description: "A 2017 account of students returning to water-quality monitoring at Black Moshannon Creek."
 ---
 
-![](TeenShale-Network-Gears-Up-For-Another-Year/image.jpg)
+*News archive. Reporting, affiliations, and program descriptions reflect the date shown above.*
+
+![A student holds a sampling container while a group works beside a stream](TeenShale-Network-Gears-Up-For-Another-Year/image.jpg){fig-alt="A student holds a sampling container while a group works beside a stream"}
 
 Local high school students stepped back into their hip waders and ventured into the cool, rushing water of Black Moshannon Creek this week.
 
-The students are part of TeenShale Network, an ongoing water quality monitoring run by Penn State's Earth and Environmental Systems Institute.
+The students are part of TeenShale Network, a water-quality monitoring program run by Penn State's Earth and Environmental Systems Institute.
 
 TeenShale gives State College Area School District students a chance to learn real science alongside professionals. Their work collecting samples also leads to better baseline data about the state's waterways.
 

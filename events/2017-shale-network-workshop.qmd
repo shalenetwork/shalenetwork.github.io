@@ -1,10 +1,13 @@
 ---
 title: "2017 Shale Network Workshop"
 date: "May 18, 2017"
-categories: [Workshop, Citizen Science, Community Engagement]
+categories: [Workshop]
 authors: 
   - name: Shale Network Team
+description: "Presentations and agenda on water monitoring, well integrity, waste management, and data sharing."
 ---
+
+*Workshop archive. The materials, affiliations, and software references below describe this dated event.*
 
 **Sharing data about shale gas development: from drilling to disposal**
 
@@ -12,9 +15,8 @@ The Shale Network held its sixth annual workshop May 18 and 19 at the Penn State
 
 Representatives from academia, government agencies, energy industries, environmental groups joined citizen scientists and high school students and teachers during the two-day event.
 
-About 100 people attended all or parts of the workshop, which included a field trip, computer module and poster session on Thursday, May 18, and a daylong session of presentations and discussion on Friday, May 19.
+The workshop included a field trip, computer module and poster session on Thursday, May 18, and a daylong session of presentations and discussion on Friday, May 19.
 
-Of the 100 participants: 35 were from academia, including representatives from Penn State, Pittsburgh, Cornell, Syracuse, Indiana University of Pennsylvania, Colorado School of Mines and Lock Haven; 25 were from government agencies, including the U.S. Geological Survey, the U.S. Fish and Wildlife Service, the Pa. Department of Environmental Protection and the Pa. Department of Conservation and Natural Resources; 35 were from environmental/non-profit groups, including Trout Unlimited, FracTracker Alliance, Environmental Defense Fund and Pa. Senior Environmental Corps.; and nine were from energy companies like Chesapeake Energy, XTO Energy and Pennsylvania General Energy.
 
 We appreciated everyone’s contributions, and are thankful for another great workshop.
 
@@ -30,7 +32,7 @@ Atherton Hotel, State College, Pa., and Penn State, University Park campus
 
 All participants took part in sharing and interpreting water quality and quantity data related to shale gas development.
 
-The Shale Network is a collaborative effort between Penn State, the University of Pittsburgh, and the Consortium of Universities for the Advancement of Hydrologic Sciences Inc. (CUAHSI) to collect and analyze data on water quality in the Marcellus Shale drilling region. The workshop provided an opportunity for nonscientists, researchers, experts, government officials, and members of the gas and environmental industries to compare lessons learned about water issues within the northeastern region of shale gas development. The Pennsylvania Department of Environmental Protection is co-organized the workshop. Oak Ridge Associated Universities (ORAU) also provided funding.
+The Shale Network is a collaborative effort between Penn State, the University of Pittsburgh, and the Consortium of Universities for the Advancement of Hydrologic Sciences Inc. (CUAHSI) to collect and analyze data on water quality in the Marcellus Shale drilling region. The workshop provided an opportunity for nonscientists, researchers, experts, government officials, and members of the gas and environmental industries to compare lessons learned about water issues within the northeastern region of shale gas development. The Pennsylvania Department of Environmental Protection co-organized the workshop. Oak Ridge Associated Universities (ORAU) also provided funding.
 
 **Agenda**
 
@@ -44,7 +46,7 @@ The Shale Network is a collaborative effort between Penn State, the University o
 -   [Proactively Addressing Induced Seismicity](2017-shale-network-workshop/Tyrell_PSU_Talk.pdf) (Tim Tyrrell)
 -   [Preliminary Results from Stream Methane Monitoring in the Marcellus Shale Region of the Susquehanna River Basin](2017-shale-network-workshop/Steffy_2017_Shale_Meeting.pdf) (Luanne Steffy)
 -   [How many disposal wells does PA need and where can they be located?](2017-shale-network-workshop/Skoff_UIC_Well_Pres_051917.pdf) (Dale E. Skoff)
--   [Methane leakage rom hydrocarbon wellbores into overlying groundwater: Numerical investigation of the multiphase flow processes governing migration](2017-shale-network-workshop/Rice_ShaleNetwork.pdf) (Amy Rice, John McCray, Kamini Singha)
+-   [Methane leakage from hydrocarbon wellbores into overlying groundwater: Numerical investigation of the multiphase flow processes governing migration](2017-shale-network-workshop/Rice_ShaleNetwork.pdf) (Amy Rice, John McCray, Kamini Singha)
 -   [Quantifying Methane Emissions from Abandoned Legacy Gas Wells in Indiana County, Pennsylvania](2017-shale-network-workshop/Rudolchick_ShaleNetwork2017.pdf) (Molly Rudolchick, Steve Hovan)
 -   [Production Waste Trends and Management](2017-shale-network-workshop/Pelepko_Waste_Management_Trends_05172017.pdf) (Seth Pelepko)
 -   [Seismicity in Pennsylvania and the Pennsylvania State Seismic Network](2017-shale-network-workshop/Nyblade_ShaleNetwork_5_19_17.pdf) (Andy Nyblade)
@@ -58,4 +60,4 @@ The Shale Network is a collaborative effort between Penn State, the University o
 
 **Continuing Professional Education**
 
-[Click here for information on earning continuing education credits and PDHs](2017-shale-network-workshop/Continuing-Professional-Education-Credits.docx)
+[Archived 2017 continuing-education information](2017-shale-network-workshop/Continuing-Professional-Education-Credits.docx)

@@ -1,10 +1,13 @@
 ---
 title: "2022 Shale Network Workshop"
 date: "May 12, 2022"
-categories: [Workshop, Citizen Science, Community Engagement]
+categories: [Workshop]
 authors: 
   - name: Shale Network Team
+description: "Agenda and abstracts on ten years of unconventional resource development."
 ---
+
+*Workshop archive. The materials, affiliations, and software references below describe this dated event.*
 
 **Ten Years of Unconventional Resource Development: Lessons Learned and Future Directions**
 
@@ -30,7 +33,7 @@ The Graduate State College, 125 S Atherton St, State College, PA 16801
 
 - Seneca Resources
 
-- Oak Ridge Associated Universities_
+- Oak Ridge Associated Universities
 
 **2022 Shale Network Workshop Agenda**
 

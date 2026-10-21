@@ -16,11 +16,11 @@ $dark-orange:   #d74100;
 // Base document colors
 $navbar-bg:       black;
 $navbar-fg:       $light-cream;
-$navbar-hl:       $su-orange;
+$navbar-hl:       #ffb27b;
 $body-bg:         black;
 $body-color:      white;
 $footer-bg:       black;
-$link-color:      $su-orange;
+$link-color:      #ffb27b;
 
 // Code blocks
 $code-block-bg-alpha: -.8;
@@ -129,19 +129,19 @@ h1, h2, h3, h4 {
 
 // line beneath h2
 h2 {
-  border-bottom: 3px solid $su-orange;
+  border-bottom: 1px solid #d5d9dc;
   padding-bottom: 0.5rem;
 }
 
 .btn {
   color: white;
-  background-color: $su-orange;
+  background-color: $dark-orange;
   border-color: $dark-orange;
 }
 
 .btn:hover {     
   cursor: pointer; 
-  box-shadow:  0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: none;
   border: 1px solid $su-orange
 }
 

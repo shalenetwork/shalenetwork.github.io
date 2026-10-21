@@ -2,12 +2,16 @@
 title: "Shale Network Fosters Collaboration, Focuses on Water Quality"
 date: "July 29, 2015"
 image: Shale-Network-Fosters-collaboration-focuses-on-water-quality/image.jpg
-categories: [News, Citizen Science, Community Engagement]
+image-alt: "Workshop participants discussing a displayed poster"
+categories: [Community]
 authors: 
   - name: Shale Network Team
+description: "A report from the 2015 workshop on sharing water-quality observations and research."
 ---
 
-![](Shale-Network-Fosters-collaboration-focuses-on-water-quality/image.jpg)
+*News archive. Reporting, affiliations, and program descriptions reflect the date shown above.*
+
+![Workshop participants discussing a displayed poster](Shale-Network-Fosters-collaboration-focuses-on-water-quality/image.jpg){fig-alt="Workshop participants discussing a displayed poster"}
 
 STATE COLLEGE, Pa. — A diverse group — from natural gas industry representatives to environmental advocates — gathered recently to discuss the impact of gas drilling on waterways at the 2015 Shale Network Workshop.
 
@@ -31,6 +35,6 @@ At the conference, Brantley discussed enlisting citizen scientists to help gathe
 
 The data is important as some have raised concerns that hydraulic fracturing or fracking, the process used to extract gas or oil from shale deep beneath the ground, could lead to potential pollution of waterways because of spills or improperly sealed sites.
 
-Shale Network has already collected a large database from water samples from the region. Software designed by CUAHSI and made publically available lets researchers track data to detect possible changes in water quality.
+Shale Network has already collected a large database from water samples from the region. Software designed by CUAHSI and made publicly available lets researchers track data to detect possible changes in water quality.
 
-Funded by a four-year grant from the NSF, the Shale Network is in its final year. Researchers are looking at options for continuing the project. Data will continue to be available through CUASHI.
+Funded by a four-year grant from the NSF, the Shale Network is in its final year. Researchers are looking at options for continuing the project. Data will continue to be available through CUAHSI.

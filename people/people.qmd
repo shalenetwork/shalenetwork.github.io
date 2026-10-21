@@ -1,83 +1,88 @@
 ---
-title: "Meet the Community"
-subtitle: "Shale Network is a global collaboration involving a consortium of Energy-Water researchers and institutions."
-html-table-processing: none
+title: "People"
+subtitle: "The team behind Shale Network"
 page-layout: full
 sidebar: false
+toc: false
+anchor-sections: false
 ---
 
 ## Leadership
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="portraits/Tao_Wen.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Tao Wen<BR>
-        Assistant Professor of Earth and Environmenmental Sciences<BR>
-        Syracuse University<BR>
-      </strong>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="portraits/Susan_Brantley.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Susan L. Brantley<BR>
-        Evan Pugh University Professor, Emeritus, and Atherton Professor<BR>
-        Pennsylvania State University<BR>
-      </strong>
-    </td>
-  </tr>
-</table>
-```
 
-## Working Group Members
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Ruta Basijokaite<BR>
-        Postdoctoral Scholar<BR>
-        Syracuse University<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Data Wrangler
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="portraits/Sam_Shaheen.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Sam Shaheen<BR>
-        NSF EAR Postdoctoral Fellow<BR>
-        University of Minnesota<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Data Wrangler
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="portraits/Nick_Su.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Nick Su<BR>
-        Ph.D. Student<BR>
-        Syracuse University<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Data Wrangler
-      </p>
-    </td>
-  </tr>
-</table>
-```
+::: {.people-list}
+::: {.person}
+![](portraits/Wen_Portrait.png){.portrait width=160 height=200 fig-alt="Tao Wen"}
+
+::: {.person-details}
+### [Tao Wen](https://jaywen.com/)
+
+Associate Professor of Earth and Environmental Sciences\
+Syracuse University
+
+[twen08@syr.edu](mailto:twen08@syr.edu)
+:::
+:::
+
+::: {.person}
+![](portraits/Susan_Brantley.jpg){.portrait width=160 height=200 fig-alt="Susan L. Brantley"}
+
+::: {.person-details}
+### [Susan L. Brantley](https://brantley.psu.edu/)
+
+Atherton Professor of Geosciences and Evan Pugh University Professor Emerita\
+Pennsylvania State University
+:::
+:::
+:::
+
+## Working group
+
+::: {.people-list}
+::: {.person}
+<div class="portrait-frame"><img src="portraits/Xiumei_Ma.jpg" class="portrait portrait-xiumei" alt="Xiumei Ma" width="160" height="200"></div>
+
+::: {.person-details}
+### Xiumei Ma
+
+Postdoctoral Researcher\
+Syracuse University\
+Data curation
+:::
+:::
+
+::: {.person}
+![](portraits/Mahnaz_Sepehrmanesh.jpg){.portrait width=160 height=200 fig-alt="Mahnaz Sepehrmanesh"}
+
+::: {.person-details}
+### Mahnaz Sepehrmanesh
+
+Postdoctoral Researcher\
+Syracuse University\
+Data curation
+:::
+:::
+
+::: {.person}
+![](portraits/Sam_Shaheen.jpg){.portrait width=160 height=200 fig-alt="Sam Shaheen"}
+
+::: {.person-details}
+### Sam Shaheen
+
+Postdoctoral Researcher\
+University of Minnesota\
+Data curation
+:::
+:::
+
+::: {.person}
+![](portraits/Nick_Su.jpg){.portrait width=160 height=200 fig-alt="Nick Su"}
+
+::: {.person-details}
+### Nick Su
+
+Graduate Student\
+Syracuse University\
+Data curation
+:::
+:::
+:::
