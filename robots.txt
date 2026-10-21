@@ -1,1 +1,1 @@
-Sitemap: https://www.shalenetwork.org/sitemap.xml
+Sitemap: https://shalenetwork.org/sitemap.xml
